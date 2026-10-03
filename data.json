@@ -1,0 +1,2863 @@
+{
+  "meta": {
+    "titulo": "Pousada Recanto da Serra — Serra do Cipó",
+    "descricao": "Um lugar simples e acolhedor na Serra do Cipó para quem quer descansar da rotina e aproveitar a natureza.",
+    "corTema": "#3F5A4F",
+    "url": "https://hoteisecovip.github.io/recanto-da-serra/"
+  },
+  "tema": {
+    "primaria": "#3F5A4F",
+    "secundaria": "#3F5A4F",
+    "titulos": "#3F5A4F",
+    "destaque": "#A9603F",
+    "fundo": "#F6F2EB",
+    "areia": "#E8E1D6",
+    "texto": "#5E4637",
+    "fonteTitulo": "Libre Baskerville",
+    "pesosTitulo": "400;700",
+    "fonteTexto": "Inter",
+    "pesosTexto": "400;500;600;700"
+  },
+  "pousada": {
+    "nome": "Pousada Recanto da Serra",
+    "regiao": "Serra do Cipó",
+    "logo": "img/logo-musulqehst5.png",
+    "coordenadas": [-19.33388, -43.62107],
+    "endereco": "Rodovia MG-10, km 99, 2289 — Serra do Cipó, Santana do Riacho/MG",
+    "whatsapp": "5531983990307",
+    "whatsappMensagem": "Olá! Vi o site da Pousada Recanto da Serra e gostaria de mais informações.",
+    "instagram": "",
+    "site": "",
+    "googleMapsUrl": "https://maps.app.goo.gl/U84M8X5yEzke9ijn8"
+  },
+  "ecovip": {
+    "nome": "EcoVip",
+    "logo": "img/logo-ecovip.png",
+    "url": "https://hoteisecovip.com.br/",
+    "site": "https://hoteisecovip.com.br/",
+    "instagram": "https://instagram.com/ecovipcipo"
+  },
+  "hero": {
+    "imagem": "img/capa-musuly1hv75.webp",
+    "imagemMobile": "img/capa-mobile-musum4kmont.webp",
+    "alt": "Pousada Recanto da Serra — Serra do Cipó",
+    "frase": "Às vezes tudo que a gente precisa é de alguns dias na serra."
+  },
+  "sobre": {
+    "eyebrow": "Conheça a Recanto",
+    "titulo": "Um fim de semana de respiro na natureza.",
+    "textos": [
+      "A Recanto da Serra é um lugar simples e acolhedor na Serra do Cipó para quem quer descansar da rotina e aproveitar a natureza.",
+      "Ambiente rústico e aberto, ar puro e tempo para viver momentos leves com quem você gosta."
+    ],
+    "fotos": [
+      {
+        "src": "img/sobre/sobre-musum9z9qga.webp",
+        "mini": "img/sobre/sobre-musum9z9qga.m.webp",
+        "alt": "Conheça a pousada — foto 1"
+      },
+      {
+        "src": "img/sobre/sobre-musumak34qz.webp",
+        "mini": "img/sobre/sobre-musumak34qz.m.webp",
+        "alt": "Conheça a pousada — foto 2"
+      },
+      {
+        "src": "img/sobre/sobre-musumbbcxwp.webp",
+        "mini": "img/sobre/sobre-musumbbcxwp.m.webp",
+        "alt": "Conheça a pousada — foto 3"
+      },
+      {
+        "src": "img/sobre/sobre-musumc0ne8q.webp",
+        "mini": "img/sobre/sobre-musumc0ne8q.m.webp",
+        "alt": "Conheça a pousada — foto 4"
+      },
+      {
+        "src": "img/sobre/sobre-musumchl8hy.webp",
+        "mini": "img/sobre/sobre-musumchl8hy.m.webp",
+        "alt": "Conheça a pousada — foto 5"
+      },
+      {
+        "src": "img/sobre/sobre-musumcsxl3y.webp",
+        "mini": "img/sobre/sobre-musumcsxl3y.m.webp",
+        "alt": "Conheça a pousada — foto 6"
+      },
+      {
+        "src": "img/sobre/sobre-musumdjd4b8.webp",
+        "mini": "img/sobre/sobre-musumdjd4b8.m.webp",
+        "alt": "Conheça a pousada — foto 7"
+      },
+      {
+        "src": "img/sobre/sobre-musumetcn81.webp",
+        "mini": "img/sobre/sobre-musumetcn81.m.webp",
+        "alt": "Conheça a pousada — foto 8"
+      },
+      {
+        "src": "img/sobre/sobre-musumfzuz3b.webp",
+        "mini": "img/sobre/sobre-musumfzuz3b.m.webp",
+        "alt": "Conheça a pousada — foto 9"
+      },
+      {
+        "src": "img/sobre/sobre-musumgrjog5.webp",
+        "mini": "img/sobre/sobre-musumgrjog5.m.webp",
+        "alt": "Conheça a pousada — foto 10"
+      }
+    ]
+  },
+  "acomodacoes": {
+    "eyebrow": "Acomodações",
+    "titulo": "Escolha onde descansar.",
+    "itens": [
+      {
+        "id": "luxo-terreo-triplo",
+        "nome": "Luxo Térreo Triplo",
+        "chamada": "Simples e confortável, para até três pessoas.",
+        "capacidade": 3,
+        "camas": "Cama de casal + 1 cama de solteiro",
+        "caracteristicas": [
+          "No térreo",
+          "Varanda compartilhada"
+        ],
+        "disponivel": [
+          {
+            "icone": "ar",
+            "texto": "Ventilador"
+          },
+          {
+            "icone": "tv",
+            "texto": "TV"
+          },
+          {
+            "icone": "wifi",
+            "texto": "Wi-Fi de cortesia"
+          },
+          {
+            "icone": "chuveiro",
+            "texto": "Chuveiro quente"
+          },
+          {
+            "icone": "cafe",
+            "texto": "Café da manhã incluso"
+          }
+        ],
+        "informacoes": [
+          "Check-in a partir das 14h e check-out até 12h."
+        ],
+        "fotos": [
+          {
+            "src": "img/quartos/luxo-terreo-triplo-musunth2snc.webp",
+            "mini": "img/quartos/luxo-terreo-triplo-musunth2snc.m.webp",
+            "alt": "Luxo Térreo Triplo — foto 1"
+          },
+          {
+            "src": "img/quartos/luxo-terreo-triplo-musunu3ruvo.webp",
+            "mini": "img/quartos/luxo-terreo-triplo-musunu3ruvo.m.webp",
+            "alt": "Luxo Térreo Triplo — foto 2"
+          },
+          {
+            "src": "img/quartos/luxo-terreo-triplo-musunv5v11o.webp",
+            "mini": "img/quartos/luxo-terreo-triplo-musunv5v11o.m.webp",
+            "alt": "Luxo Térreo Triplo — foto 3"
+          },
+          {
+            "src": "img/quartos/luxo-terreo-triplo-musunw8e3c7.webp",
+            "mini": "img/quartos/luxo-terreo-triplo-musunw8e3c7.m.webp",
+            "alt": "Luxo Térreo Triplo — foto 4"
+          },
+          {
+            "src": "img/quartos/luxo-terreo-triplo-musunx4pbwf.webp",
+            "mini": "img/quartos/luxo-terreo-triplo-musunx4pbwf.m.webp",
+            "alt": "Luxo Térreo Triplo — foto 5"
+          },
+          {
+            "src": "img/quartos/luxo-terreo-triplo-musunxtu2ph.webp",
+            "mini": "img/quartos/luxo-terreo-triplo-musunxtu2ph.m.webp",
+            "alt": "Luxo Térreo Triplo — foto 6"
+          },
+          {
+            "src": "img/quartos/luxo-terreo-triplo-musunyi1e9r.webp",
+            "mini": "img/quartos/luxo-terreo-triplo-musunyi1e9r.m.webp",
+            "alt": "Luxo Térreo Triplo — foto 7"
+          }
+        ]
+      },
+      {
+        "id": "suite-standard-dupla",
+        "nome": "Suíte Standard Dupla",
+        "chamada": "Para o casal descansar sem complicação.",
+        "capacidade": 2,
+        "camas": "Cama de casal",
+        "caracteristicas": [
+          "No térreo",
+          "Varanda compartilhada"
+        ],
+        "disponivel": [
+          {
+            "icone": "ar",
+            "texto": "Ventilador"
+          },
+          {
+            "icone": "tv",
+            "texto": "TV"
+          },
+          {
+            "icone": "wifi",
+            "texto": "Wi-Fi de cortesia"
+          },
+          {
+            "icone": "chuveiro",
+            "texto": "Chuveiro quente"
+          },
+          {
+            "icone": "cafe",
+            "texto": "Café da manhã incluso"
+          }
+        ],
+        "informacoes": [
+          "Check-in a partir das 14h e check-out até 12h."
+        ],
+        "fotos": [
+          {
+            "src": "img/quartos/suite-standard-dupla-musupc0bj0m.webp",
+            "mini": "img/quartos/suite-standard-dupla-musupc0bj0m.m.webp",
+            "alt": "Suíte Standard Dupla — foto 13"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musup8unk9f.webp",
+            "mini": "img/quartos/suite-standard-dupla-musup8unk9f.m.webp",
+            "alt": "Suíte Standard Dupla — foto 8"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musup4owuof.webp",
+            "mini": "img/quartos/suite-standard-dupla-musup4owuof.m.webp",
+            "alt": "Suíte Standard Dupla — foto 1"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musup5a4myo.webp",
+            "mini": "img/quartos/suite-standard-dupla-musup5a4myo.m.webp",
+            "alt": "Suíte Standard Dupla — foto 2"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musup5wn4n3.webp",
+            "mini": "img/quartos/suite-standard-dupla-musup5wn4n3.m.webp",
+            "alt": "Suíte Standard Dupla — foto 3"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musup6h3605.webp",
+            "mini": "img/quartos/suite-standard-dupla-musup6h3605.m.webp",
+            "alt": "Suíte Standard Dupla — foto 4"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musup7299u8.webp",
+            "mini": "img/quartos/suite-standard-dupla-musup7299u8.m.webp",
+            "alt": "Suíte Standard Dupla — foto 5"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musup7ojgxj.webp",
+            "mini": "img/quartos/suite-standard-dupla-musup7ojgxj.m.webp",
+            "alt": "Suíte Standard Dupla — foto 6"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musup89p9sh.webp",
+            "mini": "img/quartos/suite-standard-dupla-musup89p9sh.m.webp",
+            "alt": "Suíte Standard Dupla — foto 7"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musup9eygnw.webp",
+            "mini": "img/quartos/suite-standard-dupla-musup9eygnw.m.webp",
+            "alt": "Suíte Standard Dupla — foto 9"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musupa09ump.webp",
+            "mini": "img/quartos/suite-standard-dupla-musupa09ump.m.webp",
+            "alt": "Suíte Standard Dupla — foto 10"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musupal6bku.webp",
+            "mini": "img/quartos/suite-standard-dupla-musupal6bku.m.webp",
+            "alt": "Suíte Standard Dupla — foto 11"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musupb972ia.webp",
+            "mini": "img/quartos/suite-standard-dupla-musupb972ia.m.webp",
+            "alt": "Suíte Standard Dupla — foto 12"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musupcu7xpu.webp",
+            "mini": "img/quartos/suite-standard-dupla-musupcu7xpu.m.webp",
+            "alt": "Suíte Standard Dupla — foto 14"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musupdkxedf.webp",
+            "mini": "img/quartos/suite-standard-dupla-musupdkxedf.m.webp",
+            "alt": "Suíte Standard Dupla — foto 15"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musupe4078j.webp",
+            "mini": "img/quartos/suite-standard-dupla-musupe4078j.m.webp",
+            "alt": "Suíte Standard Dupla — foto 16"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musupeo6oms.webp",
+            "mini": "img/quartos/suite-standard-dupla-musupeo6oms.m.webp",
+            "alt": "Suíte Standard Dupla — foto 17"
+          },
+          {
+            "src": "img/quartos/suite-standard-dupla-musupf7tevc.webp",
+            "mini": "img/quartos/suite-standard-dupla-musupf7tevc.m.webp",
+            "alt": "Suíte Standard Dupla — foto 18"
+          }
+        ]
+      },
+      {
+        "id": "luxo-standard-quadruplo",
+        "nome": "Luxo Standard Quádruplo",
+        "chamada": "Espaço para a família ou a turma.",
+        "capacidade": 4,
+        "camas": "Cama de casal + 2 camas de solteiro (não é beliche)",
+        "caracteristicas": [
+          "No segundo andar",
+          "Divisória entre os ambientes",
+          "Sem varanda"
+        ],
+        "disponivel": [
+          {
+            "icone": "ar",
+            "texto": "Ventilador"
+          },
+          {
+            "icone": "tv",
+            "texto": "TV"
+          },
+          {
+            "icone": "wifi",
+            "texto": "Wi-Fi de cortesia"
+          },
+          {
+            "icone": "chuveiro",
+            "texto": "Chuveiro quente"
+          },
+          {
+            "icone": "cafe",
+            "texto": "Café da manhã incluso"
+          }
+        ],
+        "informacoes": [
+          "Check-in a partir das 14h e check-out até 12h."
+        ],
+        "fotos": [
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuv82pabk.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuv82pabk.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 1"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuv8r353i.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuv8r353i.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 2"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuv9e4rn6.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuv9e4rn6.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 3"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuv9y0i0j.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuv9y0i0j.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 4"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuvaiwk0w.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuvaiwk0w.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 5"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuvb23r9h.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuvb23r9h.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 6"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuvbmd8h6.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuvbmd8h6.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 7"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuvc7h1ql.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuvc7h1ql.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 8"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuvcrica7.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuvcrica7.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 9"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuvdcp78n.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuvdcp78n.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 10"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuvdxhidq.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuvdxhidq.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 11"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuveiqemm.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuveiqemm.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 12"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuvf4q3tv.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuvf4q3tv.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 13"
+          },
+          {
+            "src": "img/quartos/luxo-standard-quadruplo-musuvfpjjda.webp",
+            "mini": "img/quartos/luxo-standard-quadruplo-musuvfpjjda.m.webp",
+            "alt": "Luxo Standard Quádruplo — foto 14"
+          }
+        ]
+      },
+      {
+        "id": "suite-luxo-superior-dupla",
+        "nome": "Suíte Luxo Superior Dupla",
+        "chamada": "Varanda só sua, com rede, para ver a serra.",
+        "capacidade": 2,
+        "camas": "Cama de casal",
+        "caracteristicas": [
+          "Varanda privativa",
+          "Rede na varanda"
+        ],
+        "disponivel": [
+          {
+            "icone": "ar",
+            "texto": "Ar-condicionado"
+          },
+          {
+            "icone": "tv",
+            "texto": "TV"
+          },
+          {
+            "icone": "wifi",
+            "texto": "Wi-Fi de cortesia"
+          },
+          {
+            "icone": "chuveiro",
+            "texto": "Chuveiro quente"
+          },
+          {
+            "icone": "cafe",
+            "texto": "Café da manhã incluso"
+          }
+        ],
+        "informacoes": [
+          "Check-in a partir das 14h e check-out até 12h."
+        ],
+        "fotos": [
+          {
+            "src": "img/quartos/suite-luxo-superior-dupla-musuwloodmt.webp",
+            "mini": "img/quartos/suite-luxo-superior-dupla-musuwloodmt.m.webp",
+            "alt": "Suíte Luxo Superior Dupla — foto 1"
+          },
+          {
+            "src": "img/quartos/suite-luxo-superior-dupla-musuwma1z0a.webp",
+            "mini": "img/quartos/suite-luxo-superior-dupla-musuwma1z0a.m.webp",
+            "alt": "Suíte Luxo Superior Dupla — foto 2"
+          },
+          {
+            "src": "img/quartos/suite-luxo-superior-dupla-musuwo2uhwi.webp",
+            "mini": "img/quartos/suite-luxo-superior-dupla-musuwo2uhwi.m.webp",
+            "alt": "Suíte Luxo Superior Dupla — foto 5"
+          },
+          {
+            "src": "img/quartos/suite-luxo-superior-dupla-musuwonwmxy.webp",
+            "mini": "img/quartos/suite-luxo-superior-dupla-musuwonwmxy.m.webp",
+            "alt": "Suíte Luxo Superior Dupla — foto 6"
+          },
+          {
+            "src": "img/quartos/suite-luxo-superior-dupla-musuwr3bdcf.webp",
+            "mini": "img/quartos/suite-luxo-superior-dupla-musuwr3bdcf.m.webp",
+            "alt": "Suíte Luxo Superior Dupla — foto 10"
+          }
+        ]
+      },
+      {
+        "id": "suite-superior-tripla",
+        "nome": "Suíte Superior Tripla",
+        "chamada": "Conforto e varanda privativa para três.",
+        "capacidade": 3,
+        "camas": "Cama de casal + 1 cama de solteiro",
+        "caracteristicas": [
+          "Varanda privativa",
+          "Rede na varanda"
+        ],
+        "disponivel": [
+          {
+            "icone": "ar",
+            "texto": "Ar-condicionado"
+          },
+          {
+            "icone": "tv",
+            "texto": "TV"
+          },
+          {
+            "icone": "wifi",
+            "texto": "Wi-Fi de cortesia"
+          },
+          {
+            "icone": "chuveiro",
+            "texto": "Chuveiro quente"
+          },
+          {
+            "icone": "cafe",
+            "texto": "Café da manhã incluso"
+          }
+        ],
+        "informacoes": [
+          "Check-in a partir das 14h e check-out até 12h."
+        ],
+        "fotos": [
+          {
+            "src": "img/quartos/suite-superior-tripla-musuxs5b3pu.webp",
+            "mini": "img/quartos/suite-superior-tripla-musuxs5b3pu.m.webp",
+            "alt": "Suíte Superior Tripla — foto 1"
+          },
+          {
+            "src": "img/quartos/suite-superior-tripla-musuxu4axxw.webp",
+            "mini": "img/quartos/suite-superior-tripla-musuxu4axxw.m.webp",
+            "alt": "Suíte Superior Tripla — foto 2"
+          },
+          {
+            "src": "img/quartos/suite-superior-tripla-musuxvmzp63.webp",
+            "mini": "img/quartos/suite-superior-tripla-musuxvmzp63.m.webp",
+            "alt": "Suíte Superior Tripla — foto 3"
+          },
+          {
+            "src": "img/quartos/suite-superior-tripla-musuxwkclbz.webp",
+            "mini": "img/quartos/suite-superior-tripla-musuxwkclbz.m.webp",
+            "alt": "Suíte Superior Tripla — foto 4"
+          },
+          {
+            "src": "img/quartos/suite-superior-tripla-musuxxjleke.webp",
+            "mini": "img/quartos/suite-superior-tripla-musuxxjleke.m.webp",
+            "alt": "Suíte Superior Tripla — foto 5"
+          },
+          {
+            "src": "img/quartos/suite-superior-tripla-musuxyiy6py.webp",
+            "mini": "img/quartos/suite-superior-tripla-musuxyiy6py.m.webp",
+            "alt": "Suíte Superior Tripla — foto 6"
+          },
+          {
+            "src": "img/quartos/suite-superior-tripla-musuxzc0isn.webp",
+            "mini": "img/quartos/suite-superior-tripla-musuxzc0isn.m.webp",
+            "alt": "Suíte Superior Tripla — foto 7"
+          },
+          {
+            "src": "img/quartos/suite-superior-tripla-musuxzxiaz9.webp",
+            "mini": "img/quartos/suite-superior-tripla-musuxzxiaz9.m.webp",
+            "alt": "Suíte Superior Tripla — foto 8"
+          }
+        ]
+      },
+      {
+        "id": "suite-vip",
+        "nome": "Suíte VIP",
+        "chamada": "Hidromassagem a dois e varanda com rede.",
+        "capacidade": 2,
+        "camas": "Cama de casal",
+        "caracteristicas": [
+          "Hidromassagem para 2 pessoas",
+          "Varanda privativa",
+          "Rede na varanda"
+        ],
+        "disponivel": [
+          {
+            "icone": "ar",
+            "texto": "Ar-condicionado"
+          },
+          {
+            "icone": "tv",
+            "texto": "TV"
+          },
+          {
+            "icone": "wifi",
+            "texto": "Wi-Fi de cortesia"
+          },
+          {
+            "icone": "chuveiro",
+            "texto": "Chuveiro quente"
+          },
+          {
+            "icone": "cafe",
+            "texto": "Café da manhã incluso"
+          }
+        ],
+        "informacoes": [
+          "Check-in a partir das 14h e check-out até 12h."
+        ],
+        "fotos": [
+          {
+            "src": "img/quartos/suite-vip-musuygdyrma.webp",
+            "mini": "img/quartos/suite-vip-musuygdyrma.m.webp",
+            "alt": "Suíte VIP — foto 1"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuygyur9n.webp",
+            "mini": "img/quartos/suite-vip-musuygyur9n.m.webp",
+            "alt": "Suíte VIP — foto 3"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuyh7vieq.webp",
+            "mini": "img/quartos/suite-vip-musuyh7vieq.m.webp",
+            "alt": "Suíte VIP — foto 4"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuyhojepc.webp",
+            "mini": "img/quartos/suite-vip-musuyhojepc.m.webp",
+            "alt": "Suíte VIP — foto 5"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuykks8gj.webp",
+            "mini": "img/quartos/suite-vip-musuykks8gj.m.webp",
+            "alt": "Suíte VIP — foto 10"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuym8xk2n.webp",
+            "mini": "img/quartos/suite-vip-musuym8xk2n.m.webp",
+            "alt": "Suíte VIP — foto 13"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuyq5pdsy.webp",
+            "mini": "img/quartos/suite-vip-musuyq5pdsy.m.webp",
+            "alt": "Suíte VIP — foto 20"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuyrcoeh0.webp",
+            "mini": "img/quartos/suite-vip-musuyrcoeh0.m.webp",
+            "alt": "Suíte VIP — foto 22"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuyrx7im6.webp",
+            "mini": "img/quartos/suite-vip-musuyrx7im6.m.webp",
+            "alt": "Suíte VIP — foto 23"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuysh30u3.webp",
+            "mini": "img/quartos/suite-vip-musuysh30u3.m.webp",
+            "alt": "Suíte VIP — foto 24"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuytm3m5s.webp",
+            "mini": "img/quartos/suite-vip-musuytm3m5s.m.webp",
+            "alt": "Suíte VIP — foto 26"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuyu6n79o.webp",
+            "mini": "img/quartos/suite-vip-musuyu6n79o.m.webp",
+            "alt": "Suíte VIP — foto 27"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuywyu56g.webp",
+            "mini": "img/quartos/suite-vip-musuywyu56g.m.webp",
+            "alt": "Suíte VIP — foto 32"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuyy9fk0c.webp",
+            "mini": "img/quartos/suite-vip-musuyy9fk0c.m.webp",
+            "alt": "Suíte VIP — foto 34"
+          },
+          {
+            "src": "img/quartos/suite-vip-musuyz7gsbs.webp",
+            "mini": "img/quartos/suite-vip-musuyz7gsbs.m.webp",
+            "alt": "Suíte VIP — foto 35"
+          }
+        ]
+      },
+      {
+        "id": "suite-master",
+        "nome": "Suíte Master",
+        "chamada": "Hidromassagem e varanda privativa com rede.",
+        "capacidade": 2,
+        "camas": "Cama de casal",
+        "caracteristicas": [
+          "Hidromassagem para 1 pessoa",
+          "Varanda privativa",
+          "Rede na varanda"
+        ],
+        "disponivel": [
+          {
+            "icone": "ar",
+            "texto": "Ar-condicionado"
+          },
+          {
+            "icone": "tv",
+            "texto": "TV"
+          },
+          {
+            "icone": "wifi",
+            "texto": "Wi-Fi de cortesia"
+          },
+          {
+            "icone": "chuveiro",
+            "texto": "Chuveiro quente"
+          },
+          {
+            "icone": "cafe",
+            "texto": "Café da manhã incluso"
+          }
+        ],
+        "informacoes": [
+          "Check-in a partir das 14h e check-out até 12h."
+        ],
+        "fotos": [
+          {
+            "src": "img/quartos/suite-master-musv075o5q7.webp",
+            "mini": "img/quartos/suite-master-musv075o5q7.m.webp",
+            "alt": "Suíte Master — foto 1"
+          },
+          {
+            "src": "img/quartos/suite-master-musv07usply.webp",
+            "mini": "img/quartos/suite-master-musv07usply.m.webp",
+            "alt": "Suíte Master — foto 2"
+          },
+          {
+            "src": "img/quartos/suite-master-musv08rjkxh.webp",
+            "mini": "img/quartos/suite-master-musv08rjkxh.m.webp",
+            "alt": "Suíte Master — foto 3"
+          },
+          {
+            "src": "img/quartos/suite-master-musv0a58ljw.webp",
+            "mini": "img/quartos/suite-master-musv0a58ljw.m.webp",
+            "alt": "Suíte Master — foto 5"
+          },
+          {
+            "src": "img/quartos/suite-master-musv0bd55jy.webp",
+            "mini": "img/quartos/suite-master-musv0bd55jy.m.webp",
+            "alt": "Suíte Master — foto 7"
+          },
+          {
+            "src": "img/quartos/suite-master-musv0h9xx9o.webp",
+            "mini": "img/quartos/suite-master-musv0h9xx9o.m.webp",
+            "alt": "Suíte Master — foto 17"
+          },
+          {
+            "src": "img/quartos/suite-master-musv0hu6chk.webp",
+            "mini": "img/quartos/suite-master-musv0hu6chk.m.webp",
+            "alt": "Suíte Master — foto 18"
+          },
+          {
+            "src": "img/quartos/suite-master-musv0k2ts9q.webp",
+            "mini": "img/quartos/suite-master-musv0k2ts9q.m.webp",
+            "alt": "Suíte Master — foto 22"
+          },
+          {
+            "src": "img/quartos/suite-master-musv0lrmmyb.webp",
+            "mini": "img/quartos/suite-master-musv0lrmmyb.m.webp",
+            "alt": "Suíte Master — foto 25"
+          },
+          {
+            "src": "img/quartos/suite-master-musv0mcgeco.webp",
+            "mini": "img/quartos/suite-master-musv0mcgeco.m.webp",
+            "alt": "Suíte Master — foto 26"
+          },
+          {
+            "src": "img/quartos/suite-master-musv0mw9uqh.webp",
+            "mini": "img/quartos/suite-master-musv0mw9uqh.m.webp",
+            "alt": "Suíte Master — foto 27"
+          }
+        ]
+      }
+    ]
+  },
+  "localizacao": {
+    "eyebrow": "Localização",
+    "titulo": "Na Serra do Cipó, perto da natureza."
+  },
+  "infos": {
+    "eyebrow": "Informações úteis",
+    "titulo": "Tudo o que você pode precisar por aqui.",
+    "itens": [
+      {
+        "id": "taxi",
+        "icone": "carro",
+        "titulo": "Taxistas",
+        "texto": "11 motoristas da Serra do Cipó",
+        "textos": [
+          "Toque no telefone para ligar."
+        ],
+        "contatos": [
+          {
+            "nome": "Zeca",
+            "telefone": "(31) 98631-1047"
+          },
+          {
+            "nome": "Juliano",
+            "telefone": "(31) 99252-5999"
+          },
+          {
+            "nome": "Wesley",
+            "telefone": "(31) 99776-9238"
+          },
+          {
+            "nome": "Carlos",
+            "telefone": "(31) 99533-0608"
+          },
+          {
+            "nome": "Robert Rodrigues",
+            "telefone": "(31) 99619-7928"
+          },
+          {
+            "nome": "Kelvin Soares",
+            "telefone": "(31) 98231-0795"
+          },
+          {
+            "nome": "Fabiano",
+            "telefone": "(31) 98554-8530"
+          },
+          {
+            "nome": "Joyce",
+            "telefone": "(31) 99596-2079"
+          },
+          {
+            "nome": "Luber",
+            "telefone": "(31) 98895-4522"
+          },
+          {
+            "nome": "Piu",
+            "telefone": "(31) 98434-4567"
+          },
+          {
+            "nome": "Roger",
+            "telefone": "(31) 98599-8338"
+          }
+        ]
+      },
+      {
+        "id": "delivery",
+        "icone": "restaurante",
+        "titulo": "Delivery",
+        "texto": "Pizza, hambúrguer, sushi, açaí e mais",
+        "textos": [
+          "Contatos de delivery na região. Toque no telefone para ligar."
+        ],
+        "contatos": [
+          {
+            "nome": "Hamburgueria e Pizzaria Na Brasa",
+            "telefone": "31 9 8298-8640"
+          },
+          {
+            "nome": "Pizzaria Box da Massa",
+            "telefone": "31 9 9772-4208"
+          },
+          {
+            "nome": "Sushinato",
+            "telefone": "31 9 8119-3565"
+          },
+          {
+            "nome": "Tengu Sushi",
+            "telefone": "31 9 8370-6424"
+          },
+          {
+            "nome": "Pizzaria El Shadday",
+            "telefone": "31 9 8439-7073"
+          },
+          {
+            "nome": "Açaí Good",
+            "telefone": "31 9 9110-9175"
+          },
+          {
+            "nome": "Cê Ki Sabe",
+            "telefone": "31 9 8105-3223"
+          },
+          {
+            "nome": "Feito a Mão Burguer",
+            "telefone": "31 9 7225-4247"
+          },
+          {
+            "nome": "Escritório Cipó Beer",
+            "telefone": "31 9 7260-5989"
+          }
+        ]
+      }
+    ]
+  },
+  "proximidades": {
+    "eyebrow": "Ar livre",
+    "titulo": "O que fazer na Serra do Cipó",
+    "aviso": "Preços e horários mudam — confirme antes de sair. Localização dos estabelecimentos: OpenStreetMap.",
+    "mapa": {
+      "tiles": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+      "atribuicao": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a>"
+    },
+    "categorias": [
+      {
+        "id": "cachoeiras",
+        "nome": "Cachoeiras",
+        "icone": "cachoeira"
+      },
+      {
+        "id": "restaurantes",
+        "nome": "Restaurantes",
+        "icone": "restaurante"
+      },
+      {
+        "id": "cafes",
+        "nome": "Cafés",
+        "icone": "cafe"
+      },
+      {
+        "id": "mercados",
+        "nome": "Mercados",
+        "icone": "mercado"
+      },
+      {
+        "id": "farmacias",
+        "nome": "Farmácias",
+        "icone": "farmacia"
+      },
+      {
+        "id": "atrativos",
+        "nome": "Atrativos",
+        "icone": "atrativo"
+      },
+      {
+        "id": "trilhas",
+        "nome": "Trilhas",
+        "icone": "trilha"
+      }
+    ],
+    "locais": [
+      {
+        "id": "cachoeira-grande",
+        "categoria": "cachoeiras",
+        "nome": "Cachoeira Grande",
+        "descricao": "Queda larga com poço para banho, uma das mais conhecidas da Serra do Cipó.",
+        "coordenadas": [-19.34718, -43.63443],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "pousada",
+        "atualizadoEm": "2026-09",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33576, -43.62669],
+          [-19.33592, -43.62715],
+          [-19.33655, -43.6316],
+          [-19.33646, -43.63172],
+          [-19.33647, -43.63182],
+          [-19.33672, -43.63195],
+          [-19.33702, -43.63223],
+          [-19.33746, -43.6328],
+          [-19.33839, -43.6337],
+          [-19.33855, -43.63375],
+          [-19.33899, -43.63427],
+          [-19.34073, -43.6375],
+          [-19.34075, -43.63786],
+          [-19.34092, -43.63796],
+          [-19.34143, -43.63871],
+          [-19.34202, -43.63918],
+          [-19.3433, -43.63974],
+          [-19.34379, -43.64004],
+          [-19.3444, -43.64066],
+          [-19.34505, -43.64274],
+          [-19.34501, -43.64295],
+          [-19.3457, -43.64259],
+          [-19.346, -43.6425],
+          [-19.34693, -43.64255],
+          [-19.34822, -43.64231],
+          [-19.34859, -43.64197],
+          [-19.34889, -43.64063],
+          [-19.34937, -43.63967],
+          [-19.34929, -43.63931],
+          [-19.34938, -43.6388],
+          [-19.349, -43.63838],
+          [-19.3489, -43.63796],
+          [-19.34837, -43.6373],
+          [-19.34829, -43.63655],
+          [-19.34815, -43.63615],
+          [-19.34822, -43.63589],
+          [-19.34851, -43.6358],
+          [-19.34858, -43.63572],
+          [-19.34878, -43.63502],
+          [-19.34892, -43.63476],
+          [-19.3489, -43.63466],
+          [-19.34853, -43.63405],
+          [-19.34718, -43.63443]
+        ],
+        "distanciaKm": 4.7,
+        "tempoCarroMin": 7,
+        "tempoPeMin": 49
+      },
+      {
+        "id": "veu-da-noiva",
+        "categoria": "cachoeiras",
+        "nome": "Cachoeira Véu da Noiva",
+        "descricao": "Cachoeira bem pertinho da pousada, cercada pelo cerrado.",
+        "coordenadas": [-19.3157, -43.60557],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "pousada",
+        "atualizadoEm": "2026-09",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33196, -43.61916],
+          [-19.33163, -43.61873],
+          [-19.33128, -43.61847],
+          [-19.32948, -43.61747],
+          [-19.32883, -43.61704],
+          [-19.32691, -43.61535],
+          [-19.32445, -43.61379],
+          [-19.32348, -43.61274],
+          [-19.32056, -43.60983],
+          [-19.31947, -43.60886],
+          [-19.31905, -43.60865],
+          [-19.31733, -43.6086],
+          [-19.31661, -43.6087],
+          [-19.31643, -43.60868],
+          [-19.31614, -43.6085],
+          [-19.31588, -43.60819],
+          [-19.31546, -43.6072],
+          [-19.31532, -43.60706],
+          [-19.3157, -43.60557]
+        ],
+        "distanciaKm": 2.7,
+        "tempoCarroMin": 3,
+        "tempoPeMin": 39
+      },
+      {
+        "id": "cachoeira-da-farofa",
+        "categoria": "cachoeiras",
+        "nome": "Cachoeira da Farofa",
+        "descricao": "Dentro do Parque Nacional da Serra do Cipó. A trilha sai da Portaria Areias e é plana — dá para fazer de bicicleta.",
+        "coordenadas": [-19.37927, -43.57589],
+        "precoTipo": "Entrada",
+        "preco": "Gratuita (Parque Nacional)",
+        "funcionamento": "",
+        "fonte": "pousada",
+        "atualizadoEm": "2026-09",
+        "fotos": [],
+        "acessoCarro": [-19.34895, -43.61896],
+        "acessoNome": "a Portaria Areias",
+        "acessoTexto": "Depois, trilha a pé ou de bicicleta dentro do Parque Nacional",
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33576, -43.62669],
+          [-19.33592, -43.62715],
+          [-19.33655, -43.6316],
+          [-19.33646, -43.63172],
+          [-19.33647, -43.63182],
+          [-19.33672, -43.63195],
+          [-19.33702, -43.63223],
+          [-19.33746, -43.6328],
+          [-19.33839, -43.6337],
+          [-19.33855, -43.63375],
+          [-19.33899, -43.63427],
+          [-19.34073, -43.6375],
+          [-19.34075, -43.63786],
+          [-19.34092, -43.63796],
+          [-19.34143, -43.63871],
+          [-19.34202, -43.63918],
+          [-19.3433, -43.63974],
+          [-19.34379, -43.64004],
+          [-19.3444, -43.64066],
+          [-19.34505, -43.64274],
+          [-19.34501, -43.64295],
+          [-19.3457, -43.64259],
+          [-19.346, -43.6425],
+          [-19.34693, -43.64255],
+          [-19.34822, -43.64231],
+          [-19.34859, -43.64197],
+          [-19.34889, -43.64063],
+          [-19.34937, -43.63967],
+          [-19.34929, -43.63931],
+          [-19.34938, -43.6388],
+          [-19.349, -43.63838],
+          [-19.3489, -43.63796],
+          [-19.34837, -43.6373],
+          [-19.34829, -43.63655],
+          [-19.34815, -43.63615],
+          [-19.34822, -43.63589],
+          [-19.34855, -43.63577],
+          [-19.34878, -43.63502],
+          [-19.34892, -43.63476],
+          [-19.34853, -43.63405],
+          [-19.34851, -43.63388],
+          [-19.3486, -43.63358],
+          [-19.34883, -43.63334],
+          [-19.3496, -43.63291],
+          [-19.34969, -43.63276],
+          [-19.34984, -43.6322],
+          [-19.34971, -43.63094],
+          [-19.3493, -43.63011],
+          [-19.3489, -43.6289],
+          [-19.34855, -43.62822],
+          [-19.34857, -43.62599],
+          [-19.34865, -43.62575],
+          [-19.3492, -43.62485],
+          [-19.34944, -43.62396],
+          [-19.34931, -43.62325],
+          [-19.34918, -43.62174],
+          [-19.3494, -43.62103],
+          [-19.34881, -43.61995],
+          [-19.34903, -43.61899],
+          [-19.34895, -43.61896]
+        ],
+        "distanciaKm": 6.4,
+        "tempoCarroMin": 12,
+        "tempoPeMin": 121
+      },
+      {
+        "id": "parque-nacional",
+        "categoria": "atrativos",
+        "nome": "Parque Nacional da Serra do Cipó — Portaria Areias",
+        "descricao": "Principal entrada do Parque Nacional, de onde saem as trilhas para a Cachoeira da Farofa e o Cânion das Bandeirinhas.",
+        "coordenadas": [-19.34895, -43.61896],
+        "precoTipo": "Entrada",
+        "preco": "Gratuita",
+        "funcionamento": "8h às 18h",
+        "fonte": "pousada",
+        "atualizadoEm": "2026-09",
+        "fotos": [
+          {
+            "src": "img/proximidades/parque-nacional-1.webp",
+            "alt": "Parque Nacional da Serra do Cipó — Portaria Areias — foto 1",
+            "credito": "upslon / Wikimedia Commons (CC BY 2.0)",
+            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AParque_Nacional_da_Serra_do_Cip%C3%B3_(32902708936).jpg",
+            "mini": "img/proximidades/parque-nacional-1.m.webp"
+          },
+          {
+            "src": "img/proximidades/parque-nacional-2.webp",
+            "alt": "Parque Nacional da Serra do Cipó — Portaria Areias — foto 2",
+            "credito": "upslon / Wikimedia Commons (CC BY 2.0)",
+            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AParque_Nacional_da_Serra_do_Cip%C3%B3_(32128502603).jpg",
+            "mini": "img/proximidades/parque-nacional-2.m.webp"
+          }
+        ],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33576, -43.62669],
+          [-19.33592, -43.62715],
+          [-19.33655, -43.6316],
+          [-19.33646, -43.63172],
+          [-19.33647, -43.63182],
+          [-19.33672, -43.63195],
+          [-19.33702, -43.63223],
+          [-19.33746, -43.6328],
+          [-19.33839, -43.6337],
+          [-19.33855, -43.63375],
+          [-19.33899, -43.63427],
+          [-19.34073, -43.6375],
+          [-19.34075, -43.63786],
+          [-19.34092, -43.63796],
+          [-19.34143, -43.63871],
+          [-19.34202, -43.63918],
+          [-19.3433, -43.63974],
+          [-19.34379, -43.64004],
+          [-19.3444, -43.64066],
+          [-19.34505, -43.64274],
+          [-19.34501, -43.64295],
+          [-19.3457, -43.64259],
+          [-19.346, -43.6425],
+          [-19.34693, -43.64255],
+          [-19.34822, -43.64231],
+          [-19.34859, -43.64197],
+          [-19.34889, -43.64063],
+          [-19.34937, -43.63967],
+          [-19.34929, -43.63931],
+          [-19.34938, -43.6388],
+          [-19.349, -43.63838],
+          [-19.3489, -43.63796],
+          [-19.34837, -43.6373],
+          [-19.34829, -43.63655],
+          [-19.34815, -43.63615],
+          [-19.34822, -43.63589],
+          [-19.34855, -43.63577],
+          [-19.34878, -43.63502],
+          [-19.34892, -43.63476],
+          [-19.34853, -43.63405],
+          [-19.34851, -43.63388],
+          [-19.3486, -43.63358],
+          [-19.34883, -43.63334],
+          [-19.3496, -43.63291],
+          [-19.34969, -43.63276],
+          [-19.34984, -43.6322],
+          [-19.34971, -43.63094],
+          [-19.3493, -43.63011],
+          [-19.3489, -43.6289],
+          [-19.34855, -43.62822],
+          [-19.34857, -43.62599],
+          [-19.34865, -43.62575],
+          [-19.3492, -43.62485],
+          [-19.34944, -43.62396],
+          [-19.34931, -43.62325],
+          [-19.34918, -43.62174],
+          [-19.3494, -43.62103],
+          [-19.34881, -43.61995],
+          [-19.34903, -43.61899],
+          [-19.34895, -43.61896]
+        ],
+        "distanciaKm": 6.4,
+        "tempoCarroMin": 12,
+        "tempoPeMin": 59
+      },
+      {
+        "id": "estatua-juquinha",
+        "categoria": "atrativos",
+        "nome": "Estátua do Juquinha",
+        "descricao": "Mirante clássico da Serra, à beira da MG-010, com vista para os campos rupestres. Ótimo no fim de tarde.",
+        "coordenadas": [-19.25804, -43.55262],
+        "precoTipo": "Entrada",
+        "preco": "Gratuita",
+        "funcionamento": "Livre",
+        "fonte": "pousada",
+        "atualizadoEm": "2026-09",
+        "fotos": [
+          {
+            "src": "img/proximidades/estatua-juquinha-1.webp",
+            "alt": "Estátua do Juquinha — foto 1",
+            "credito": "Pedro Vilela / MTur Destinos / Wikimedia Commons (domínio público)",
+            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3APedroVilela_Escultura_do_Juquinha_Santana_do_Riacho_MG_(39056746600).jpg",
+            "mini": "img/proximidades/estatua-juquinha-1.m.webp"
+          }
+        ],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33196, -43.61916],
+          [-19.33163, -43.61873],
+          [-19.33128, -43.61847],
+          [-19.32948, -43.61747],
+          [-19.32883, -43.61704],
+          [-19.32691, -43.61535],
+          [-19.32445, -43.61379],
+          [-19.32348, -43.61274],
+          [-19.32056, -43.60983],
+          [-19.31947, -43.60886],
+          [-19.31905, -43.60865],
+          [-19.31863, -43.60861],
+          [-19.31733, -43.6086],
+          [-19.31678, -43.6087],
+          [-19.31643, -43.60868],
+          [-19.31614, -43.6085],
+          [-19.31588, -43.60819],
+          [-19.31538, -43.60709],
+          [-19.3152, -43.60707],
+          [-19.31448, -43.60735],
+          [-19.31392, -43.60736],
+          [-19.3129, -43.60669],
+          [-19.31257, -43.60625],
+          [-19.31175, -43.60617],
+          [-19.31128, -43.60623],
+          [-19.31097, -43.60611],
+          [-19.31058, -43.60576],
+          [-19.31034, -43.60537],
+          [-19.31014, -43.60441],
+          [-19.3101, -43.6039],
+          [-19.31002, -43.60374],
+          [-19.30964, -43.60393],
+          [-19.30911, -43.60399],
+          [-19.30908, -43.60452],
+          [-19.30879, -43.60539],
+          [-19.30871, -43.6056],
+          [-19.30846, -43.6059],
+          [-19.3088, -43.60682],
+          [-19.30883, -43.60707],
+          [-19.30877, -43.60726],
+          [-19.30858, -43.60738],
+          [-19.30762, -43.60748],
+          [-19.30726, -43.60762],
+          [-19.30684, -43.60811],
+          [-19.30671, -43.60837],
+          [-19.30652, -43.60906],
+          [-19.30634, -43.60913],
+          [-19.30614, -43.609],
+          [-19.30612, -43.60884],
+          [-19.30637, -43.60856],
+          [-19.30651, -43.6083],
+          [-19.30662, -43.60767],
+          [-19.30645, -43.60746],
+          [-19.30586, -43.607],
+          [-19.30548, -43.60648],
+          [-19.30539, -43.60617],
+          [-19.30542, -43.60551],
+          [-19.30563, -43.60469],
+          [-19.30548, -43.60446],
+          [-19.30492, -43.60394],
+          [-19.30482, -43.60362],
+          [-19.30491, -43.6031],
+          [-19.3049, -43.60279],
+          [-19.30464, -43.6024],
+          [-19.30443, -43.60228],
+          [-19.30158, -43.60114],
+          [-19.30129, -43.60121],
+          [-19.30109, -43.60138],
+          [-19.30076, -43.60175],
+          [-19.30032, -43.60243],
+          [-19.2999, -43.60254],
+          [-19.29832, -43.60263],
+          [-19.29686, -43.60241],
+          [-19.29532, -43.60253],
+          [-19.2938, -43.60281],
+          [-19.29332, -43.60273],
+          [-19.29204, -43.60217],
+          [-19.29183, -43.60186],
+          [-19.29176, -43.60134],
+          [-19.29206, -43.59992],
+          [-19.29214, -43.59909],
+          [-19.29231, -43.59892],
+          [-19.29309, -43.59868],
+          [-19.29349, -43.59847],
+          [-19.29513, -43.59689],
+          [-19.29526, -43.59667],
+          [-19.29526, -43.59645],
+          [-19.29509, -43.59616],
+          [-19.29492, -43.59607],
+          [-19.29438, -43.596],
+          [-19.29396, -43.59579],
+          [-19.29342, -43.59493],
+          [-19.29313, -43.5947],
+          [-19.29278, -43.5947],
+          [-19.29149, -43.5951],
+          [-19.29059, -43.59522],
+          [-19.28873, -43.59487],
+          [-19.28845, -43.59473],
+          [-19.28825, -43.59449],
+          [-19.28818, -43.59403],
+          [-19.2887, -43.5926],
+          [-19.28877, -43.59211],
+          [-19.28843, -43.59108],
+          [-19.28826, -43.59029],
+          [-19.28798, -43.58984],
+          [-19.28769, -43.58964],
+          [-19.28724, -43.58954],
+          [-19.28624, -43.58992],
+          [-19.28485, -43.5898],
+          [-19.28273, -43.58911],
+          [-19.28208, -43.58869],
+          [-19.28175, -43.58863],
+          [-19.28138, -43.58874],
+          [-19.27889, -43.59008],
+          [-19.27855, -43.5901],
+          [-19.27821, -43.58984],
+          [-19.27792, -43.58913],
+          [-19.27781, -43.58861],
+          [-19.27796, -43.58711],
+          [-19.27821, -43.58576],
+          [-19.27836, -43.5854],
+          [-19.2789, -43.58469],
+          [-19.27977, -43.58389],
+          [-19.28002, -43.58358],
+          [-19.28029, -43.58294],
+          [-19.28049, -43.58205],
+          [-19.28062, -43.5818],
+          [-19.28343, -43.57982],
+          [-19.2837, -43.57956],
+          [-19.28382, -43.57933],
+          [-19.28467, -43.57669],
+          [-19.28492, -43.57652],
+          [-19.28561, -43.57627],
+          [-19.28588, -43.5759],
+          [-19.28587, -43.57552],
+          [-19.28529, -43.57469],
+          [-19.28527, -43.57444],
+          [-19.2854, -43.57412],
+          [-19.28556, -43.57396],
+          [-19.28669, -43.57335],
+          [-19.28706, -43.57267],
+          [-19.28764, -43.57206],
+          [-19.28882, -43.57154],
+          [-19.28892, -43.57137],
+          [-19.28911, -43.57053],
+          [-19.28941, -43.57002],
+          [-19.28985, -43.56955],
+          [-19.29062, -43.56911],
+          [-19.29091, -43.56869],
+          [-19.2911, -43.56823],
+          [-19.29115, -43.5677],
+          [-19.29098, -43.56715],
+          [-19.29073, -43.56675],
+          [-19.29043, -43.56665],
+          [-19.28881, -43.56683],
+          [-19.28831, -43.56678],
+          [-19.28797, -43.56659],
+          [-19.28779, -43.56641],
+          [-19.28762, -43.56599],
+          [-19.28763, -43.56556],
+          [-19.28786, -43.56493],
+          [-19.28869, -43.56374],
+          [-19.28863, -43.56337],
+          [-19.28787, -43.56231],
+          [-19.28785, -43.56192],
+          [-19.28881, -43.55989],
+          [-19.2892, -43.55925],
+          [-19.28931, -43.55892],
+          [-19.28912, -43.55781],
+          [-19.28927, -43.55625],
+          [-19.28887, -43.55559],
+          [-19.2888, -43.55483],
+          [-19.28867, -43.55463],
+          [-19.28628, -43.55341],
+          [-19.28506, -43.55318],
+          [-19.28452, -43.55271],
+          [-19.28422, -43.55266],
+          [-19.2836, -43.55283],
+          [-19.28335, -43.55282],
+          [-19.28267, -43.5523],
+          [-19.28159, -43.55206],
+          [-19.2814, -43.55188],
+          [-19.28131, -43.55166],
+          [-19.28143, -43.55024],
+          [-19.28141, -43.55003],
+          [-19.28125, -43.54973],
+          [-19.28107, -43.54958],
+          [-19.27986, -43.54922],
+          [-19.27914, -43.54876],
+          [-19.27885, -43.54876],
+          [-19.27456, -43.55019],
+          [-19.27302, -43.5511],
+          [-19.27068, -43.55159],
+          [-19.27031, -43.55158],
+          [-19.27001, -43.55135],
+          [-19.26968, -43.55085],
+          [-19.26951, -43.55042],
+          [-19.26956, -43.55005],
+          [-19.26995, -43.54919],
+          [-19.2702, -43.54899],
+          [-19.27116, -43.54853],
+          [-19.27125, -43.54841],
+          [-19.27125, -43.54818],
+          [-19.271, -43.54802],
+          [-19.2696, -43.54809],
+          [-19.26839, -43.54734],
+          [-19.26722, -43.54722],
+          [-19.26668, -43.54721],
+          [-19.26633, -43.5474],
+          [-19.26618, -43.54771],
+          [-19.26601, -43.54895],
+          [-19.26572, -43.54938],
+          [-19.26566, -43.54976],
+          [-19.26556, -43.54999],
+          [-19.26531, -43.55017],
+          [-19.2643, -43.55048],
+          [-19.2641, -43.55063],
+          [-19.26372, -43.55193],
+          [-19.26347, -43.55224],
+          [-19.262, -43.55291],
+          [-19.26112, -43.5532],
+          [-19.26065, -43.55314],
+          [-19.25931, -43.55259],
+          [-19.25915, -43.55243],
+          [-19.25902, -43.55216],
+          [-19.25804, -43.55262]
+        ],
+        "distanciaKm": 19.7,
+        "tempoCarroMin": 22,
+        "tempoPeMin": 292
+      },
+      {
+        "id": "canion-bandeirinhas",
+        "categoria": "trilhas",
+        "nome": "Cânion das Bandeirinhas",
+        "descricao": "Cânion com poços de água escura dentro do Parque Nacional. Trilha longa a partir da Portaria Areias — saia cedo.",
+        "coordenadas": [-19.41924, -43.56918],
+        "precoTipo": "Entrada",
+        "preco": "Gratuita · guia opcional",
+        "funcionamento": "",
+        "fonte": "pousada",
+        "atualizadoEm": "2026-09",
+        "fotos": [
+          {
+            "src": "img/proximidades/canion-bandeirinhas-1.webp",
+            "alt": "Cânion das Bandeirinhas — foto 1",
+            "credito": "Vinícius de Souza Naves / Wikimedia Commons (CC BY-SA 4.0)",
+            "creditoUrl": "https://commons.wikimedia.org/wiki/File%3AO_C%C3%A2nion_das_Bandeirinhas.jpg",
+            "mini": "img/proximidades/canion-bandeirinhas-1.m.webp"
+          }
+        ],
+        "acessoCarro": [-19.34895, -43.61896],
+        "acessoNome": "a Portaria Areias",
+        "acessoTexto": "Depois, trilha longa a pé dentro do Parque Nacional",
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33576, -43.62669],
+          [-19.33592, -43.62715],
+          [-19.33655, -43.6316],
+          [-19.33646, -43.63172],
+          [-19.33647, -43.63182],
+          [-19.33672, -43.63195],
+          [-19.33702, -43.63223],
+          [-19.33746, -43.6328],
+          [-19.33839, -43.6337],
+          [-19.33855, -43.63375],
+          [-19.33899, -43.63427],
+          [-19.34073, -43.6375],
+          [-19.34075, -43.63786],
+          [-19.34092, -43.63796],
+          [-19.34143, -43.63871],
+          [-19.34202, -43.63918],
+          [-19.3433, -43.63974],
+          [-19.34379, -43.64004],
+          [-19.3444, -43.64066],
+          [-19.34505, -43.64274],
+          [-19.34501, -43.64295],
+          [-19.3457, -43.64259],
+          [-19.346, -43.6425],
+          [-19.34693, -43.64255],
+          [-19.34822, -43.64231],
+          [-19.34859, -43.64197],
+          [-19.34889, -43.64063],
+          [-19.34937, -43.63967],
+          [-19.34929, -43.63931],
+          [-19.34938, -43.6388],
+          [-19.349, -43.63838],
+          [-19.3489, -43.63796],
+          [-19.34837, -43.6373],
+          [-19.34829, -43.63655],
+          [-19.34815, -43.63615],
+          [-19.34822, -43.63589],
+          [-19.34855, -43.63577],
+          [-19.34878, -43.63502],
+          [-19.34892, -43.63476],
+          [-19.34853, -43.63405],
+          [-19.34851, -43.63388],
+          [-19.3486, -43.63358],
+          [-19.34883, -43.63334],
+          [-19.3496, -43.63291],
+          [-19.34969, -43.63276],
+          [-19.34984, -43.6322],
+          [-19.34971, -43.63094],
+          [-19.3493, -43.63011],
+          [-19.3489, -43.6289],
+          [-19.34855, -43.62822],
+          [-19.34857, -43.62599],
+          [-19.34865, -43.62575],
+          [-19.3492, -43.62485],
+          [-19.34944, -43.62396],
+          [-19.34931, -43.62325],
+          [-19.34918, -43.62174],
+          [-19.3494, -43.62103],
+          [-19.34881, -43.61995],
+          [-19.34903, -43.61899],
+          [-19.34895, -43.61896]
+        ],
+        "distanciaKm": 6.4,
+        "tempoCarroMin": 12,
+        "tempoPeMin": 194
+      },
+      {
+        "id": "cachoeira-do-tome",
+        "categoria": "cachoeiras",
+        "nome": "Cachoeira do Tomé",
+        "descricao": "Cachoeira na região do Cipó Velho, perto da Cachoeira Grande.",
+        "coordenadas": [-19.34777, -43.63999],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33576, -43.62669],
+          [-19.33592, -43.62715],
+          [-19.33655, -43.6316],
+          [-19.33646, -43.63172],
+          [-19.33647, -43.63182],
+          [-19.33672, -43.63195],
+          [-19.33702, -43.63223],
+          [-19.33746, -43.6328],
+          [-19.33839, -43.6337],
+          [-19.33855, -43.63375],
+          [-19.33899, -43.63427],
+          [-19.34073, -43.6375],
+          [-19.34078, -43.6379],
+          [-19.34092, -43.63796],
+          [-19.34143, -43.63871],
+          [-19.34176, -43.63902],
+          [-19.34246, -43.63942],
+          [-19.34295, -43.63958],
+          [-19.34355, -43.63988],
+          [-19.34395, -43.64016],
+          [-19.3444, -43.64066],
+          [-19.34505, -43.64274],
+          [-19.34501, -43.64295],
+          [-19.34592, -43.64252],
+          [-19.34728, -43.64252],
+          [-19.34813, -43.64235],
+          [-19.34853, -43.64206],
+          [-19.34869, -43.64173],
+          [-19.34893, -43.64049],
+          [-19.34777, -43.63999]
+        ],
+        "distanciaKm": 3.9,
+        "tempoCarroMin": 6,
+        "tempoPeMin": 46
+      },
+      {
+        "id": "cachoeira-lagoa-dourada",
+        "categoria": "cachoeiras",
+        "nome": "Cachoeira Lagoa Dourada",
+        "descricao": "Cachoeira ao sul do distrito, mais afastada — bom passeio para um dia inteiro.",
+        "coordenadas": [-19.44605, -43.60202],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33576, -43.62669],
+          [-19.33592, -43.62715],
+          [-19.33655, -43.6316],
+          [-19.33646, -43.63172],
+          [-19.33647, -43.63182],
+          [-19.33672, -43.63195],
+          [-19.33702, -43.63223],
+          [-19.33746, -43.6328],
+          [-19.33839, -43.6337],
+          [-19.33855, -43.63375],
+          [-19.33899, -43.63427],
+          [-19.34073, -43.6375],
+          [-19.34075, -43.63786],
+          [-19.34092, -43.63796],
+          [-19.34143, -43.63871],
+          [-19.34202, -43.63918],
+          [-19.3433, -43.63974],
+          [-19.34379, -43.64004],
+          [-19.3444, -43.64066],
+          [-19.34505, -43.64274],
+          [-19.34495, -43.64341],
+          [-19.34518, -43.64607],
+          [-19.3453, -43.64656],
+          [-19.34569, -43.64698],
+          [-19.34743, -43.64836],
+          [-19.3479, -43.64911],
+          [-19.34879, -43.65094],
+          [-19.34914, -43.6514],
+          [-19.34944, -43.65167],
+          [-19.35052, -43.65228],
+          [-19.35357, -43.65387],
+          [-19.35532, -43.65466],
+          [-19.35711, -43.65536],
+          [-19.35812, -43.65569],
+          [-19.35871, -43.65576],
+          [-19.36112, -43.65556],
+          [-19.36147, -43.65559],
+          [-19.36217, -43.65581],
+          [-19.36263, -43.65606],
+          [-19.36502, -43.65802],
+          [-19.36533, -43.65823],
+          [-19.36594, -43.65848],
+          [-19.36686, -43.65863],
+          [-19.36838, -43.65872],
+          [-19.37083, -43.65937],
+          [-19.37409, -43.65978],
+          [-19.37442, -43.65991],
+          [-19.37485, -43.6603],
+          [-19.37502, -43.66055],
+          [-19.3756, -43.66212],
+          [-19.37648, -43.66412],
+          [-19.37821, -43.6662],
+          [-19.37978, -43.66883],
+          [-19.38108, -43.67193],
+          [-19.38126, -43.67251],
+          [-19.38132, -43.6731],
+          [-19.38122, -43.67528],
+          [-19.38124, -43.67581],
+          [-19.38153, -43.67752],
+          [-19.38157, -43.68006],
+          [-19.38301, -43.68598],
+          [-19.38347, -43.68945],
+          [-19.38421, -43.68881],
+          [-19.38469, -43.68801],
+          [-19.38498, -43.68773],
+          [-19.38548, -43.68749],
+          [-19.38657, -43.68723],
+          [-19.38693, -43.68631],
+          [-19.38687, -43.68592],
+          [-19.38706, -43.68499],
+          [-19.38733, -43.68429],
+          [-19.38739, -43.68308],
+          [-19.38746, -43.68277],
+          [-19.38764, -43.68262],
+          [-19.38819, -43.68243],
+          [-19.38865, -43.6825],
+          [-19.38891, -43.68246],
+          [-19.38922, -43.68213],
+          [-19.38972, -43.68122],
+          [-19.38996, -43.67934],
+          [-19.39012, -43.67892],
+          [-19.39025, -43.67875],
+          [-19.39087, -43.67836],
+          [-19.39217, -43.67784],
+          [-19.39284, -43.67707],
+          [-19.39317, -43.67686],
+          [-19.39382, -43.67564],
+          [-19.39442, -43.6749],
+          [-19.39486, -43.67471],
+          [-19.39532, -43.6746],
+          [-19.39562, -43.67444],
+          [-19.39617, -43.674],
+          [-19.39662, -43.67315],
+          [-19.39681, -43.67257],
+          [-19.39725, -43.67075],
+          [-19.39722, -43.67019],
+          [-19.39736, -43.66977],
+          [-19.39772, -43.66955],
+          [-19.39859, -43.66868],
+          [-19.39946, -43.6676],
+          [-19.40001, -43.66676],
+          [-19.40056, -43.66562],
+          [-19.40224, -43.66306],
+          [-19.40251, -43.66271],
+          [-19.40372, -43.66161],
+          [-19.40419, -43.66109],
+          [-19.40654, -43.65779],
+          [-19.40764, -43.65648],
+          [-19.40888, -43.65542],
+          [-19.40961, -43.65494],
+          [-19.41079, -43.65432],
+          [-19.4119, -43.65407],
+          [-19.41347, -43.65439],
+          [-19.41459, -43.65428],
+          [-19.41531, -43.6539],
+          [-19.41633, -43.65361],
+          [-19.41682, -43.65333],
+          [-19.41715, -43.65301],
+          [-19.4183, -43.6513],
+          [-19.41891, -43.65058],
+          [-19.4196, -43.6496],
+          [-19.41995, -43.64901],
+          [-19.4203, -43.64814],
+          [-19.42131, -43.64651],
+          [-19.42232, -43.6453],
+          [-19.42266, -43.6446],
+          [-19.42274, -43.64385],
+          [-19.423, -43.64283],
+          [-19.4236, -43.64125],
+          [-19.42445, -43.64007],
+          [-19.42549, -43.63899],
+          [-19.42594, -43.63875],
+          [-19.4264, -43.63865],
+          [-19.42694, -43.63862],
+          [-19.42832, -43.63872],
+          [-19.43052, -43.63916],
+          [-19.43156, -43.63911],
+          [-19.43186, -43.63915],
+          [-19.43336, -43.64034],
+          [-19.43432, -43.64078],
+          [-19.43531, -43.64097],
+          [-19.43683, -43.64186],
+          [-19.43713, -43.64209],
+          [-19.43736, -43.64214],
+          [-19.43788, -43.642],
+          [-19.43851, -43.64174],
+          [-19.43875, -43.64143],
+          [-19.44106, -43.64098],
+          [-19.44217, -43.64059],
+          [-19.44538, -43.63979],
+          [-19.44627, -43.63969],
+          [-19.44621, -43.63912],
+          [-19.44629, -43.63837],
+          [-19.44715, -43.63767],
+          [-19.4472, -43.63757],
+          [-19.44734, -43.6368],
+          [-19.44717, -43.63596],
+          [-19.44701, -43.63578],
+          [-19.44646, -43.63563],
+          [-19.44534, -43.63568],
+          [-19.44466, -43.63554],
+          [-19.44432, -43.63538],
+          [-19.44375, -43.63463],
+          [-19.44347, -43.63413],
+          [-19.44315, -43.63379],
+          [-19.44261, -43.63345],
+          [-19.44261, -43.63239],
+          [-19.44246, -43.63185],
+          [-19.44206, -43.63134],
+          [-19.44209, -43.63123],
+          [-19.44184, -43.6308],
+          [-19.44138, -43.63032],
+          [-19.44141, -43.62999],
+          [-19.44156, -43.6297],
+          [-19.44142, -43.62884],
+          [-19.44148, -43.62859],
+          [-19.4414, -43.6284],
+          [-19.44145, -43.62819],
+          [-19.441, -43.62787],
+          [-19.44062, -43.6275],
+          [-19.43982, -43.62628],
+          [-19.43838, -43.62603],
+          [-19.43792, -43.6257],
+          [-19.43751, -43.62584],
+          [-19.43703, -43.62622],
+          [-19.43661, -43.62636],
+          [-19.4359, -43.62634],
+          [-19.43558, -43.62597],
+          [-19.43531, -43.62547],
+          [-19.43531, -43.62502],
+          [-19.4355, -43.62426],
+          [-19.43547, -43.62379],
+          [-19.43493, -43.62233],
+          [-19.43462, -43.6206],
+          [-19.43419, -43.61868],
+          [-19.43393, -43.61782],
+          [-19.43357, -43.61728],
+          [-19.43357, -43.61704],
+          [-19.4337, -43.61654],
+          [-19.43435, -43.61579],
+          [-19.43621, -43.61578],
+          [-19.43667, -43.61612],
+          [-19.44605, -43.60202]
+        ],
+        "distanciaKm": 24.6,
+        "tempoCarroMin": 51,
+        "tempoPeMin": 224
+      },
+      {
+        "id": "cachoeira-serra-morena",
+        "categoria": "cachoeiras",
+        "nome": "Cachoeiras Serra Morena",
+        "descricao": "Conjunto de três quedas ao norte da Serra do Cipó.",
+        "coordenadas": [-19.26705, -43.5833],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33196, -43.61916],
+          [-19.33163, -43.61873],
+          [-19.33128, -43.61847],
+          [-19.32948, -43.61747],
+          [-19.32883, -43.61704],
+          [-19.32691, -43.61535],
+          [-19.32445, -43.61379],
+          [-19.32348, -43.61274],
+          [-19.32056, -43.60983],
+          [-19.31947, -43.60886],
+          [-19.31905, -43.60865],
+          [-19.31863, -43.60861],
+          [-19.31733, -43.6086],
+          [-19.31678, -43.6087],
+          [-19.31643, -43.60868],
+          [-19.31614, -43.6085],
+          [-19.31588, -43.60819],
+          [-19.31538, -43.60709],
+          [-19.3152, -43.60707],
+          [-19.31448, -43.60735],
+          [-19.31392, -43.60736],
+          [-19.3129, -43.60669],
+          [-19.31257, -43.60625],
+          [-19.31175, -43.60617],
+          [-19.31128, -43.60623],
+          [-19.31097, -43.60611],
+          [-19.31058, -43.60576],
+          [-19.31034, -43.60537],
+          [-19.31014, -43.60441],
+          [-19.3101, -43.6039],
+          [-19.31002, -43.60374],
+          [-19.30964, -43.60393],
+          [-19.30911, -43.60399],
+          [-19.30908, -43.60452],
+          [-19.30879, -43.60539],
+          [-19.30871, -43.6056],
+          [-19.30846, -43.6059],
+          [-19.3088, -43.60682],
+          [-19.30883, -43.60707],
+          [-19.30877, -43.60726],
+          [-19.30858, -43.60738],
+          [-19.30762, -43.60748],
+          [-19.30726, -43.60762],
+          [-19.30684, -43.60811],
+          [-19.30649, -43.60911],
+          [-19.30634, -43.60913],
+          [-19.30619, -43.60906],
+          [-19.30611, -43.60896],
+          [-19.30613, -43.60879],
+          [-19.30644, -43.60844],
+          [-19.30664, -43.60781],
+          [-19.30662, -43.60767],
+          [-19.30645, -43.60746],
+          [-19.30586, -43.607],
+          [-19.30542, -43.60634],
+          [-19.30542, -43.60551],
+          [-19.30563, -43.60469],
+          [-19.30548, -43.60446],
+          [-19.30492, -43.60394],
+          [-19.30484, -43.60378],
+          [-19.30483, -43.60346],
+          [-19.30492, -43.60294],
+          [-19.30481, -43.6026],
+          [-19.30443, -43.60228],
+          [-19.30168, -43.60116],
+          [-19.3014, -43.60117],
+          [-19.30109, -43.60138],
+          [-19.30076, -43.60175],
+          [-19.30041, -43.60234],
+          [-19.30021, -43.60248],
+          [-19.29859, -43.60264],
+          [-19.29808, -43.60261],
+          [-19.29715, -43.60242],
+          [-19.29658, -43.60242],
+          [-19.29516, -43.60255],
+          [-19.2938, -43.60281],
+          [-19.29332, -43.60273],
+          [-19.29204, -43.60217],
+          [-19.29158, -43.60214],
+          [-19.2896, -43.60122],
+          [-19.28946, -43.60113],
+          [-19.28893, -43.60047],
+          [-19.28852, -43.6003],
+          [-19.28809, -43.60028],
+          [-19.28733, -43.60037],
+          [-19.28498, -43.60073],
+          [-19.2841, -43.60038],
+          [-19.282, -43.59974],
+          [-19.28119, -43.59975],
+          [-19.27998, -43.60037],
+          [-19.27902, -43.60056],
+          [-19.27823, -43.6006],
+          [-19.27786, -43.60056],
+          [-19.27744, -43.60008],
+          [-19.27729, -43.60003],
+          [-19.27685, -43.60053],
+          [-19.27659, -43.60065],
+          [-19.2752, -43.60098],
+          [-19.27433, -43.60087],
+          [-19.27309, -43.60134],
+          [-19.27269, -43.60161],
+          [-19.27148, -43.60224],
+          [-19.27084, -43.60282],
+          [-19.27034, -43.60312],
+          [-19.26845, -43.60319],
+          [-19.26787, -43.6033],
+          [-19.26744, -43.60344],
+          [-19.26682, -43.60386],
+          [-19.26635, -43.60407],
+          [-19.2653, -43.60446],
+          [-19.26457, -43.60481],
+          [-19.26262, -43.60494],
+          [-19.26253, -43.60483],
+          [-19.26259, -43.60434],
+          [-19.26298, -43.60341],
+          [-19.26302, -43.6028],
+          [-19.2626, -43.60177],
+          [-19.26254, -43.60064],
+          [-19.26422, -43.59944],
+          [-19.26516, -43.59914],
+          [-19.26527, -43.59902],
+          [-19.26651, -43.59683],
+          [-19.26654, -43.59629],
+          [-19.26704, -43.59568],
+          [-19.26712, -43.5954],
+          [-19.26699, -43.59428],
+          [-19.267, -43.59329],
+          [-19.26664, -43.58947],
+          [-19.26528, -43.58922],
+          [-19.26532, -43.58892],
+          [-19.26515, -43.5886],
+          [-19.26468, -43.58826],
+          [-19.26432, -43.58811],
+          [-19.26372, -43.588],
+          [-19.26245, -43.58687],
+          [-19.26307, -43.58676],
+          [-19.26332, -43.58701],
+          [-19.26356, -43.58706],
+          [-19.26478, -43.58684],
+          [-19.26501, -43.58699],
+          [-19.26525, -43.58697],
+          [-19.26544, -43.58677],
+          [-19.26567, -43.58638],
+          [-19.26574, -43.58594],
+          [-19.26622, -43.58474],
+          [-19.26666, -43.58439],
+          [-19.26677, -43.58411],
+          [-19.26695, -43.58402],
+          [-19.26704, -43.58379],
+          [-19.26705, -43.5833]
+        ],
+        "distanciaKm": 13.5,
+        "tempoCarroMin": 48,
+        "tempoPeMin": 186
+      },
+      {
+        "id": "encontro-dos-rios",
+        "categoria": "atrativos",
+        "nome": "Encontro dos Rios",
+        "descricao": "Ponto onde os rios se encontram, dentro do Parque Nacional, pertinho da Portaria do Retiro.",
+        "coordenadas": [-19.34706, -43.60575],
+        "precoTipo": "Entrada",
+        "preco": "Gratuita (Parque Nacional)",
+        "funcionamento": "",
+        "fonte": "pousada",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "acessoCarro": [-19.34323, -43.6045],
+        "acessoNome": "a Portaria do Retiro",
+        "acessoTexto": "Depois, uma curta caminhada",
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33486, -43.61719],
+          [-19.33547, -43.61684],
+          [-19.3361, -43.61666],
+          [-19.33825, -43.61627],
+          [-19.33822, -43.61637],
+          [-19.33829, -43.61651],
+          [-19.33839, -43.61653],
+          [-19.33851, -43.61644],
+          [-19.33851, -43.61632],
+          [-19.33838, -43.61621],
+          [-19.33831, -43.61602],
+          [-19.33767, -43.61565],
+          [-19.33695, -43.61476],
+          [-19.33672, -43.61467],
+          [-19.33592, -43.61464],
+          [-19.33582, -43.61452],
+          [-19.3358, -43.61255],
+          [-19.3359, -43.61241],
+          [-19.33711, -43.61161],
+          [-19.33714, -43.61079],
+          [-19.33745, -43.61002],
+          [-19.3377, -43.60912],
+          [-19.33822, -43.60886],
+          [-19.33838, -43.6087],
+          [-19.33884, -43.60785],
+          [-19.33924, -43.60736],
+          [-19.34037, -43.60655],
+          [-19.34062, -43.60646],
+          [-19.34193, -43.60633],
+          [-19.34214, -43.60627],
+          [-19.34259, -43.60598],
+          [-19.34292, -43.60557],
+          [-19.34313, -43.60514],
+          [-19.34317, -43.60476],
+          [-19.34329, -43.60465],
+          [-19.34342, -43.60403],
+          [-19.34338, -43.60389],
+          [-19.34326, -43.60401],
+          [-19.34316, -43.60448],
+          [-19.34323, -43.6045]
+        ],
+        "distanciaKm": 3.2,
+        "tempoCarroMin": 7,
+        "tempoPeMin": 60
+      },
+      {
+        "id": "merce",
+        "categoria": "restaurantes",
+        "nome": "Mercê — Mercearia do Cerrado",
+        "descricao": "Mercearia com comida regional, a poucos minutos da pousada.",
+        "coordenadas": [-19.31715, -43.60894],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "Quarta a domingo, 9h às 17h",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33196, -43.61916],
+          [-19.33163, -43.61873],
+          [-19.33128, -43.61847],
+          [-19.32948, -43.61747],
+          [-19.32883, -43.61704],
+          [-19.32691, -43.61535],
+          [-19.32445, -43.61379],
+          [-19.32348, -43.61274],
+          [-19.32056, -43.60983],
+          [-19.31947, -43.60886],
+          [-19.31905, -43.60865],
+          [-19.31733, -43.6086],
+          [-19.31724, -43.60896],
+          [-19.31715, -43.60894]
+        ],
+        "distanciaKm": 2.4,
+        "tempoCarroMin": 3,
+        "tempoPeMin": 32
+      },
+      {
+        "id": "restaurante-paiol",
+        "categoria": "restaurantes",
+        "nome": "Restaurante Paiol",
+        "descricao": "Comida regional.",
+        "coordenadas": [-19.32247, -43.61198],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33196, -43.61916],
+          [-19.33163, -43.61873],
+          [-19.33128, -43.61847],
+          [-19.32948, -43.61747],
+          [-19.32883, -43.61704],
+          [-19.32691, -43.61535],
+          [-19.32445, -43.61379],
+          [-19.32258, -43.61185],
+          [-19.32247, -43.61198]
+        ],
+        "distanciaKm": 1.7,
+        "tempoCarroMin": 2,
+        "tempoPeMin": 22
+      },
+      {
+        "id": "restaurante-fogao-de-lenha",
+        "categoria": "restaurantes",
+        "nome": "Restaurante Fogão de Lenha",
+        "descricao": "Comida mineira.",
+        "coordenadas": [-19.32839, -43.61648],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33196, -43.61916],
+          [-19.33163, -43.61873],
+          [-19.33128, -43.61847],
+          [-19.32948, -43.61747],
+          [-19.32883, -43.61704],
+          [-19.32829, -43.61661],
+          [-19.32839, -43.61648]
+        ],
+        "distanciaKm": 0.9,
+        "tempoCarroMin": 1,
+        "tempoPeMin": 11
+      },
+      {
+        "id": "vila-cipo",
+        "categoria": "restaurantes",
+        "nome": "Vila Cipó",
+        "descricao": "Comida regional, no centrinho do distrito.",
+        "coordenadas": [-19.33593, -43.6266],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33478, -43.62506],
+          [-19.33495, -43.62504],
+          [-19.33496, -43.62484],
+          [-19.33535, -43.62443],
+          [-19.33594, -43.62242],
+          [-19.33778, -43.62301],
+          [-19.33818, -43.62327],
+          [-19.33639, -43.62854],
+          [-19.33621, -43.62856],
+          [-19.33603, -43.62724],
+          [-19.33586, -43.62664],
+          [-19.33593, -43.6266]
+        ],
+        "distanciaKm": 2.4,
+        "tempoCarroMin": 4,
+        "tempoPeMin": 10
+      },
+      {
+        "id": "pizzaria-forno-da-serra",
+        "categoria": "restaurantes",
+        "nome": "Pizzaria Forno da Serra",
+        "descricao": "Pizzaria no centrinho do distrito.",
+        "coordenadas": [-19.3358, -43.62693],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33553, -43.62623],
+          [-19.33576, -43.62669],
+          [-19.33584, -43.62691],
+          [-19.3358, -43.62693]
+        ],
+        "distanciaKm": 1.2,
+        "tempoCarroMin": 2,
+        "tempoPeMin": 11
+      },
+      {
+        "id": "matuto-cipo",
+        "categoria": "restaurantes",
+        "nome": "Restaurante Matuto Cipó",
+        "descricao": "Comida regional.",
+        "coordenadas": [-19.33654, -43.63039],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33576, -43.62669],
+          [-19.33592, -43.62715],
+          [-19.33638, -43.63041],
+          [-19.33654, -43.63039]
+        ],
+        "distanciaKm": 1.6,
+        "tempoCarroMin": 2,
+        "tempoPeMin": 16
+      },
+      {
+        "id": "forneria-berttuci",
+        "categoria": "restaurantes",
+        "nome": "Forneria Berttuci",
+        "descricao": "Forneria na estrada para a Cachoeira Grande.",
+        "coordenadas": [-19.34106, -43.63847],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33576, -43.62669],
+          [-19.33592, -43.62715],
+          [-19.33655, -43.6316],
+          [-19.33646, -43.63172],
+          [-19.33647, -43.63182],
+          [-19.33672, -43.63195],
+          [-19.33702, -43.63223],
+          [-19.33746, -43.6328],
+          [-19.33839, -43.6337],
+          [-19.33855, -43.63375],
+          [-19.33899, -43.63427],
+          [-19.34073, -43.6375],
+          [-19.34075, -43.63786],
+          [-19.34092, -43.63796],
+          [-19.3412, -43.63837],
+          [-19.34106, -43.63847]
+        ],
+        "distanciaKm": 2.6,
+        "tempoCarroMin": 3,
+        "tempoPeMin": 29
+      },
+      {
+        "id": "ecovip-cafe",
+        "categoria": "cafes",
+        "nome": "EcoVip Café",
+        "descricao": "O café da rede EcoVip, no centrinho da Serra do Cipó.",
+        "coordenadas": [-19.335502, -43.6265142],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "pousada",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "googleMapsUrl": "https://maps.app.goo.gl/brzc5riCgmp3ZEdz9",
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33553, -43.62623],
+          [-19.33564, -43.62644],
+          [-19.3355, -43.62651]
+        ],
+        "distanciaKm": 1.2,
+        "tempoCarroMin": 2,
+        "tempoPeMin": 10
+      },
+      {
+        "id": "supermercado-bh",
+        "categoria": "mercados",
+        "nome": "Supermercado BH",
+        "descricao": "",
+        "coordenadas": [-19.33217, -43.61884],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33187, -43.61904],
+          [-19.33217, -43.61884]
+        ],
+        "distanciaKm": 0.4,
+        "tempoCarroMin": 1,
+        "tempoPeMin": 6
+      },
+      {
+        "id": "supermercado-super-serra",
+        "categoria": "mercados",
+        "nome": "Supermercado Super Serra",
+        "descricao": "",
+        "coordenadas": [-19.33562, -43.62658],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33525, -43.62572],
+          [-19.33569, -43.62654],
+          [-19.33562, -43.62658]
+        ],
+        "distanciaKm": 1.2,
+        "tempoCarroMin": 2,
+        "tempoPeMin": 10
+      },
+      {
+        "id": "supermercado-reis",
+        "categoria": "mercados",
+        "nome": "Supermercado Reis",
+        "descricao": "",
+        "coordenadas": [-19.3364, -43.62933],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33576, -43.62669],
+          [-19.33592, -43.62715],
+          [-19.33623, -43.62935],
+          [-19.3364, -43.62933]
+        ],
+        "distanciaKm": 1.5,
+        "tempoCarroMin": 2,
+        "tempoPeMin": 14
+      },
+      {
+        "id": "padaria-cipo",
+        "categoria": "mercados",
+        "nome": "Padaria Cipó",
+        "descricao": "",
+        "coordenadas": [-19.33525, -43.62502],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33483, -43.62508],
+          [-19.33495, -43.62504],
+          [-19.33496, -43.62484],
+          [-19.33535, -43.62443],
+          [-19.33518, -43.625],
+          [-19.33525, -43.62502]
+        ],
+        "distanciaKm": 1.1,
+        "tempoCarroMin": 2,
+        "tempoPeMin": 8
+      },
+      {
+        "id": "drogaria-serras-azuis",
+        "categoria": "farmacias",
+        "nome": "Drogaria Serras Azuis",
+        "descricao": "",
+        "coordenadas": [-19.33614, -43.62911],
+        "precoTipo": "",
+        "preco": "",
+        "funcionamento": "",
+        "fonte": "osm",
+        "atualizadoEm": "2026-10",
+        "fotos": [],
+        "rota": [
+          [-19.33388, -43.62107],
+          [-19.3338, -43.62089],
+          [-19.33288, -43.62136],
+          [-19.33216, -43.61955],
+          [-19.33208, -43.6196],
+          [-19.33278, -43.62136],
+          [-19.33466, -43.62465],
+          [-19.33475, -43.62502],
+          [-19.33493, -43.62514],
+          [-19.33576, -43.62669],
+          [-19.33592, -43.62715],
+          [-19.3362, -43.6291],
+          [-19.33614, -43.62911]
+        ],
+        "distanciaKm": 1.4,
+        "tempoCarroMin": 2,
+        "tempoPeMin": 14
+      }
+    ],
+    "rotasGeradasEm": "2026-10-03"
+  },
+  "fornecemos": {
+    "eyebrow": "Estrutura e o que a Recanto oferece",
+    "titulo": "Para você ter certeza de que fez uma boa escolha.",
+    "itens": [
+      {
+        "icone": "piscina",
+        "titulo": "Piscina",
+        "texto": "Para aproveitar os dias de sol na serra."
+      },
+      {
+        "icone": "sauna",
+        "titulo": "Sauna",
+        "texto": "Para relaxar no fim do dia."
+      },
+      {
+        "icone": "jogos",
+        "titulo": "Salão de jogos",
+        "texto": "Diversão para todas as idades."
+      },
+      {
+        "icone": "churrasco",
+        "titulo": "Churrasqueira",
+        "texto": "Para reunir quem você gosta ao ar livre."
+      },
+      {
+        "icone": "lencol",
+        "titulo": "Roupas de cama",
+        "texto": "Lençóis, fronhas e edredom inclusos na hospedagem."
+      },
+      {
+        "icone": "toalha",
+        "titulo": "Roupas de banho",
+        "texto": "Toalhas de banho e de rosto inclusas na hospedagem."
+      },
+      {
+        "icone": "cafe",
+        "titulo": "Café da manhã",
+        "texto": "Servido das 8h às 10h."
+      },
+      {
+        "icone": "wifi",
+        "titulo": "Wi-Fi de cortesia",
+        "texto": "A pousada possui Wi-Fi de cortesia para o hóspede."
+      },
+      {
+        "icone": "carro",
+        "titulo": "Estacionamento",
+        "texto": "Gratuito, dentro da pousada."
+      },
+      {
+        "icone": "sabonete",
+        "titulo": "Amenities",
+        "texto": "Sabonete, shampoo e condicionador."
+      }
+    ],
+    "observacao": "Toalhas de piscina não são fornecidas — traga a sua."
+  },
+  "regras": {
+    "eyebrow": "O que não é permitido",
+    "titulo": "Antes de chegar, vale saber.",
+    "itens": [
+      {
+        "icone": "pet",
+        "titulo": "Animais",
+        "texto": "Não aceitamos animais de estimação."
+      },
+      {
+        "icone": "festa",
+        "titulo": "Festas",
+        "texto": "Não é permitido realizar festas ou eventos."
+      },
+      {
+        "icone": "som",
+        "titulo": "Som",
+        "texto": "Som alto não é permitido. Silêncio a partir das 22h."
+      },
+      {
+        "icone": "visita",
+        "titulo": "Visitantes",
+        "texto": "Apenas hóspedes podem circular na pousada."
+      },
+      {
+        "icone": "fumo",
+        "titulo": "Fumar",
+        "texto": "Proibido fumar dentro dos quartos."
+      },
+      {
+        "icone": "cozinha",
+        "titulo": "Cozinha",
+        "texto": "A cozinha não pode ser utilizada pelos hóspedes; é de uso exclusivo dos funcionários."
+      }
+    ]
+  },
+  "beneficios": {
+    "titulo": "Hospedando na Recanto da Serra, você também aproveita benefícios da EcoVip.",
+    "intro": "A Recanto da Serra faz parte do Grupo EcoVip e oferece diversos benefícios para seus hóspedes:",
+    "itens": [
+      {
+        "id": "monjolos",
+        "icone": "cachoeira",
+        "titulo": "Cachoeira Monjolos + almoço",
+        "texto": "Um dia na Pousada Monjolos, com almoço e acesso exclusivo à Cachoeira de Baixo.",
+        "botao": "Ver detalhes",
+        "detalhes": {
+          "destaque": "Das 10h às 16h",
+          "textos": [
+            "Para quem se hospeda em uma das pousadas da rede EcoVip na Serra do Cipó, oferecemos uma experiência exclusiva na Pousada Monjolos."
+          ],
+          "blocos": [
+            {
+              "titulo": "O que está incluso",
+              "itens": [
+                "Almoço (das 12h às 14h)",
+                "Acesso ao bar e ao salão de jogos",
+                "Acesso exclusivo à deslumbrante Cachoeira de Baixo"
+              ]
+            }
+          ],
+          "nota": "Solicite mais informações na recepção da pousada. Relaxe, aproveite e viva o melhor da Rede EcoVip!",
+          "fotos": [
+            {
+              "src": "img/beneficios/monjolos-muri1n7ey9w.webp",
+              "alt": "Cachoeira Monjolos + almoço — foto 1",
+              "mini": "img/beneficios/monjolos-muri1n7ey9w.m.webp"
+            },
+            {
+              "src": "img/beneficios/monjolos-muri1q1xk5a.webp",
+              "alt": "Cachoeira Monjolos + almoço — foto 2",
+              "mini": "img/beneficios/monjolos-muri1q1xk5a.m.webp"
+            },
+            {
+              "src": "img/beneficios/monjolos-muri1t2vi4n.webp",
+              "alt": "Cachoeira Monjolos + almoço — foto 3",
+              "mini": "img/beneficios/monjolos-muri1t2vi4n.m.webp"
+            },
+            {
+              "src": "img/beneficios/monjolos-muri20wp5du.webp",
+              "alt": "Cachoeira Monjolos + almoço — foto 4",
+              "mini": "img/beneficios/monjolos-muri20wp5du.m.webp"
+            },
+            {
+              "src": "img/beneficios/monjolos-muri216v5ow.webp",
+              "alt": "Cachoeira Monjolos + almoço — foto 5",
+              "mini": "img/beneficios/monjolos-muri216v5ow.m.webp"
+            },
+            {
+              "src": "img/beneficios/monjolos-muri21hl60d.webp",
+              "alt": "Cachoeira Monjolos + almoço — foto 6",
+              "mini": "img/beneficios/monjolos-muri21hl60d.m.webp"
+            },
+            {
+              "src": "img/beneficios/monjolos-muri21og55j.webp",
+              "alt": "Cachoeira Monjolos + almoço — foto 7",
+              "mini": "img/beneficios/monjolos-muri21og55j.m.webp"
+            },
+            {
+              "src": "img/beneficios/monjolos-muri21zxiem.webp",
+              "alt": "Cachoeira Monjolos + almoço — foto 8",
+              "mini": "img/beneficios/monjolos-muri21zxiem.m.webp"
+            },
+            {
+              "src": "img/beneficios/monjolos-muri22bnm1k.webp",
+              "alt": "Cachoeira Monjolos + almoço — foto 9",
+              "mini": "img/beneficios/monjolos-muri22bnm1k.m.webp"
+            },
+            {
+              "src": "img/beneficios/monjolos-muri22mca2k.webp",
+              "alt": "Cachoeira Monjolos + almoço — foto 10",
+              "mini": "img/beneficios/monjolos-muri22mca2k.m.webp"
+            },
+            {
+              "src": "img/beneficios/monjolos-muri239vxnm.webp",
+              "alt": "Cachoeira Monjolos + almoço — foto 11",
+              "mini": "img/beneficios/monjolos-muri239vxnm.m.webp"
+            },
+            {
+              "src": "img/beneficios/monjolos-muri23gy677.webp",
+              "alt": "Cachoeira Monjolos + almoço — foto 12",
+              "mini": "img/beneficios/monjolos-muri23gy677.m.webp"
+            }
+          ]
+        }
+      },
+      {
+        "id": "passeios",
+        "icone": "trilha",
+        "titulo": "5% de desconto em passeios",
+        "texto": "Com o Receptivo Turístico Guia Serra do Cipó: rapel, canoagem, cavalgada, barco e mais.",
+        "botao": "Ver detalhes",
+        "detalhes": {
+          "destaque": "5% de desconto para hóspedes EcoVip",
+          "textos": [
+            "Passeios com o Receptivo Turístico Guia Serra do Cipó: rapel, canoagem, cavalgada, barco e mais.",
+            "Hóspedes da Rede EcoVip têm 5% de desconto nos passeios.",
+            "Para reservar, toque no botão abaixo e fale com a gente pelo WhatsApp."
+          ],
+          "fotos": [
+            {
+              "src": "img/beneficios/passeios-muri4kbpf7y.webp",
+              "alt": "5% de desconto em passeios — foto 1",
+              "mini": "img/beneficios/passeios-muri4kbpf7y.m.webp"
+            },
+            {
+              "src": "img/beneficios/passeios-muri4khxy6p.webp",
+              "alt": "5% de desconto em passeios — foto 2",
+              "mini": "img/beneficios/passeios-muri4khxy6p.m.webp"
+            },
+            {
+              "src": "img/beneficios/passeios-muri4kmy22k.webp",
+              "alt": "5% de desconto em passeios — foto 3",
+              "mini": "img/beneficios/passeios-muri4kmy22k.m.webp"
+            },
+            {
+              "src": "img/beneficios/passeios-muri4ks74um.webp",
+              "alt": "5% de desconto em passeios — foto 4",
+              "mini": "img/beneficios/passeios-muri4ks74um.m.webp"
+            }
+          ],
+          "botoes": [
+            {
+              "texto": "Faça sua reserva",
+              "whatsapp": "Olá! Quero reservar um passeio com o guia (desconto de 5% para hóspedes EcoVip)."
+            }
+          ]
+        }
+      },
+      {
+        "id": "massagem",
+        "icone": "massagem",
+        "titulo": "Massagem relaxante",
+        "texto": "Realizada por profissionais parceiros. Confira a disponibilidade na recepção.",
+        "botao": "Ver detalhes",
+        "detalhes": {
+          "destaque": "Sessão de 50 minutos",
+          "textos": [
+            "Permita-se uma pausa para cuidar do corpo e da mente com uma massagem relaxante de 50 minutos."
+          ],
+          "blocos": [
+            {
+              "titulo": "Valores",
+              "itens": [
+                "Para 1 pessoa: a partir de R$ 190,00",
+                "Para 2 pessoas: a partir de R$ 380,00"
+              ]
+            },
+            {
+              "titulo": "Agendamento",
+              "itens": [
+                "Sinal de R$ 60,00 via Pix",
+                "Valor restante pago diretamente na recepção"
+              ]
+            }
+          ],
+          "fotos": [],
+          "nota": "Agende na recepção da pousada."
+        }
+      },
+      {
+        "id": "decoracao",
+        "icone": "presente",
+        "rotulo": "Serviço da pousada",
+        "titulo": "Decoração especial",
+        "texto": "Pétalas de rosas, bombons e kit L’Occitane para surpreender quem você ama.",
+        "botao": "Ver opções",
+        "detalhes": {
+          "destaque": "A partir de R$ 200,00",
+          "blocos": [
+            {
+              "titulo": "Decoração R$ 200,00",
+              "itens": [
+                "Pétalas de rosas decorativas",
+                "Caixa de bombom Ferrero Rocher",
+                "Kit de amenidades by L’Occitane"
+              ]
+            },
+            {
+              "titulo": "Decoração R$ 300,00",
+              "itens": [
+                "Pétalas de rosas decorativas",
+                "Caixa de bombom Ferrero Rocher",
+                "Kit de amenidades by L’Occitane",
+                "Espumante"
+              ]
+            }
+          ],
+          "nota": "Surpreenda quem você ama com momentos inesquecíveis! Peça a sua na recepção.",
+          "fotos": [
+            {
+              "src": "img/beneficios/decoracao-murj5lew20x.webp",
+              "alt": "Decoração especial — foto 1",
+              "mini": "img/beneficios/decoracao-murj5lew20x.m.webp"
+            },
+            {
+              "src": "img/beneficios/decoracao-murj5uiaz0l.webp",
+              "alt": "Decoração especial — foto 2",
+              "mini": "img/beneficios/decoracao-murj5uiaz0l.m.webp"
+            },
+            {
+              "src": "img/beneficios/decoracao-murj5xbfksc.webp",
+              "alt": "Decoração especial — foto 3",
+              "mini": "img/beneficios/decoracao-murj5xbfksc.m.webp"
+            },
+            {
+              "src": "img/beneficios/decoracao-murj5zw554h.webp",
+              "alt": "Decoração especial — foto 4",
+              "mini": "img/beneficios/decoracao-murj5zw554h.m.webp"
+            },
+            {
+              "src": "img/beneficios/decoracao-murj62mzsrw.webp",
+              "alt": "Decoração especial — foto 5",
+              "mini": "img/beneficios/decoracao-murj62mzsrw.m.webp"
+            },
+            {
+              "src": "img/beneficios/decoracao-murj64qd73d.webp",
+              "alt": "Decoração especial — foto 6",
+              "mini": "img/beneficios/decoracao-murj64qd73d.m.webp"
+            },
+            {
+              "src": "img/beneficios/decoracao-murj66quqnx.webp",
+              "alt": "Decoração especial — foto 7",
+              "mini": "img/beneficios/decoracao-murj66quqnx.m.webp"
+            }
+          ]
+        }
+      }
+    ],
+    "fecho": "E ainda mais vantagens para tornar sua estadia inesquecível!"
+  },
+  "galeria": {
+    "eyebrow": "Galeria",
+    "titulo": "Imagine esses dias na serra.",
+    "fotos": []
+  }
+}
