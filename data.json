@@ -777,6 +777,38 @@
     "titulo": "Tudo o que você pode precisar por aqui.",
     "itens": [
       {
+        "id": "onibus",
+        "icone": "onibus",
+        "titulo": "Como chegar de ônibus",
+        "texto": "De BH pela Viação Serro ou Saritur",
+        "textos": [
+          "Você pode embarcar na Viação Serro ou na Viação Saritur, na Rodoviária de BH. Ao comprar a passagem, diga que está indo para a Serra do Cipó."
+        ],
+        "passos": [
+          "Ao agente de bordo, diga que vai desembarcar em frente ao Supermercado BH, na Serra do Cipó.",
+          "Ao desembarcar, desça um pouco pela rodovia e entre na próxima rua de terra — fica bem ao lado do posto de saúde.",
+          "Essa é a rua da Pousada Recanto da Serra. Vá até o final dela: a estradinha termina na pousada.",
+          "Do ponto de ônibus até a pousada são só cerca de 100 metros, 1 minuto de caminhada."
+        ],
+        "blocos": [
+          {
+            "titulo": "Dicas de sinal e mapa",
+            "itens": [
+              "Abra a localização da pousada no Google Maps e amplie o mapa bem na área da pousada, para ele atualizar os mapas da região.",
+              "Ative o modo offline do Google Maps, caso fique sem rede de dados.",
+              "Na região, as redes que funcionam bem são VIVO e CLARO. OI e TIM funcionam em pouquíssimos lugares."
+            ]
+          }
+        ],
+        "botoes": [
+          {
+            "texto": "Abrir localização no Google Maps",
+            "url": "https://maps.app.goo.gl/U84M8X5yEzke9ijn8",
+            "icone": "mapa"
+          }
+        ]
+      },
+      {
         "id": "taxi",
         "icone": "carro",
         "titulo": "Taxistas",
