@@ -381,6 +381,10 @@
   // Botões de um benefício (catálogo, telefone…) — escritos por extenso, sem ícone sozinho
   function botoesDetalhe(botoes) {
     const html = lista(botoes).map((bt) => {
+      // pousada sem WhatsApp: o botão vira "Ligar" para o telefone da pousada (não some)
+      if (bt.whatsapp && !whatsUrl(bt.whatsapp) && D.pousada.telefone) {
+        return `<a class="botao botao--primario botao--largo" href="tel:+${telInternacional(D.pousada.telefone)}">${ico('telefone')} ${esc(bt.texto)} — ligar ${esc(fmtTel(D.pousada.telefone))}</a>`;
+      }
       const href = bt.whatsapp ? whatsUrl(bt.whatsapp) : bt.url;
       return linkExterno(href, `${ico(bt.icone || (bt.whatsapp ? 'whatsapp' : 'site'))} ${esc(bt.texto)}`, bt.whatsapp ? 'botao botao--whats botao--largo' : 'botao botao--primario botao--largo');
     }).join('');
