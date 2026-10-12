@@ -268,6 +268,7 @@
         ${e.logo ? `<img class="beneficios__logo" src="${esc(e.logo)}" alt="${esc(e.nome || 'EcoVip')}" width="110" height="30" loading="lazy">` : ''}
         ${cabecalho(s)}
         ${s.intro ? `<p class="beneficios__intro">${esc(s.intro)}</p>` : ''}
+        ${avisoPago(s.aviso)}
         <ol class="beneficios">
           ${lista(s.itens).map((b, i) => {
             // tudo do benefício aparece direto no card (sem precisar clicar)
@@ -277,7 +278,9 @@
               ${fotosDoCard(g)}
               <div class="beneficio-card__corpo">
                 <span class="beneficios__num">${String(i + 1).padStart(2, '0')}</span>
+                ${seloPago()}
                 <h3>${esc(b.titulo)}</h3>
+                ${precoBeneficio(b)}
                 ${b.texto ? `<p class="beneficio-card__resumo">${esc(b.texto)}</p>` : ''}
                 ${d.destaque ? `<p class="modal__destaque">${esc(d.destaque)}</p>` : ''}
                 ${lista(d.textos).map((t) => `<p>${esc(t)}</p>`).join('')}
@@ -471,6 +474,23 @@
       ${botoes ? `<div class="modal__rodape modal__rodape--varios">${botoes}</div>` : '<div class="modal__espaco"></div>'}`);
   }
 
+  // Benefícios EcoVip NÃO estão incluídos na diária: o aviso aparece na seção, em cada card e no detalhe
+  function avisoPago(texto) {
+    return `<div class="aviso-pago" role="note">
+      ${ico('preco')}
+      <div>
+        <strong>Atenção: os benefícios não estão incluídos na diária.</strong>
+        <span>${esc(texto || 'São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade na recepção.')}</span>
+      </div>
+    </div>`;
+  }
+  function seloPago() {
+    return `<p class="selo-pago">${ico('preco')} Não incluso · pago à parte</p>`;
+  }
+  function precoBeneficio(b) {
+    return `<p class="beneficio-preco">${esc(b.preco || 'Valor sob consulta na recepção')}</p>`;
+  }
+
   function modalBeneficio(id) {
     const b = lista(D.beneficios && D.beneficios.itens).find((x) => x.id === id);
     if (!b || !b.detalhes) return;
@@ -486,6 +506,8 @@
       <div class="modal__texto">
         <p class="eyebrow">${ico('folha')} ${esc(b.rotulo || `Benefício ${(D.ecovip && D.ecovip.nome) || 'EcoVip'}`)}</p>
         <h2>${esc(b.titulo)}</h2>
+        ${seloPago()}
+        ${precoBeneficio(b)}
         ${d.destaque ? `<p class="modal__destaque">${esc(d.destaque)}</p>` : ''}
         ${lista(d.textos).map((t) => `<p>${esc(t)}</p>`).join('')}
         ${lista(d.blocos).map((bl) => `<h3>${esc(bl.titulo)}</h3><ul class="marcadores">${lista(bl.itens).map((c) => `<li>${ico('check')} ${esc(c)}</li>`).join('')}</ul>`).join('')}
