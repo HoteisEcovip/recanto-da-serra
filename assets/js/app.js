@@ -962,7 +962,9 @@
     document.body.classList.add('pronto');
   }
 
-  fetch('data.json')
+  // mesmo endereço do preload no index.html (leva ?v=... para o celular não usar uma versão antiga guardada)
+  const preload = document.querySelector('link[rel="preload"][as="fetch"]');
+  fetch((preload && preload.getAttribute('href')) || 'data.json')
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((json) => { D = json; montar(); })
     .catch((err) => {
