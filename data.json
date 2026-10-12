@@ -2653,8 +2653,8 @@
     ]
   },
   "beneficios": {
-    "titulo": "Hospedando na Recanto da Serra, você tem condições especiais em serviços da EcoVip.",
-    "intro": "A Recanto da Serra faz parte do Grupo EcoVip e oferece serviços extras com preço especial para seus hóspedes.",
+    "titulo": "Hospedando na Recanto da Serra, você também aproveita benefícios da EcoVip.",
+    "intro": "A Recanto da Serra faz parte do Grupo EcoVip e oferece diversos benefícios para seus hóspedes:",
     "itens": [
       {
         "id": "monjolos",
@@ -2669,7 +2669,7 @@
           ],
           "blocos": [
             {
-              "titulo": "O que o pacote inclui",
+              "titulo": "O que está incluso",
               "itens": [
                 "Almoço (das 12h às 14h)",
                 "Acesso ao bar e ao salão de jogos",
