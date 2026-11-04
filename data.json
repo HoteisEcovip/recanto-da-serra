@@ -809,61 +809,6 @@
         ]
       },
       {
-        "id": "taxi",
-        "icone": "carro",
-        "titulo": "Taxistas",
-        "texto": "11 motoristas da Serra do Cipó",
-        "textos": [
-          "Toque no telefone para ligar."
-        ],
-        "contatos": [
-          {
-            "nome": "Zeca",
-            "telefone": "(31) 98631-1047"
-          },
-          {
-            "nome": "Juliano",
-            "telefone": "(31) 99252-5999"
-          },
-          {
-            "nome": "Wesley",
-            "telefone": "(31) 99776-9238"
-          },
-          {
-            "nome": "Carlos",
-            "telefone": "(31) 99533-0608"
-          },
-          {
-            "nome": "Robert Rodrigues",
-            "telefone": "(31) 99619-7928"
-          },
-          {
-            "nome": "Kelvin Soares",
-            "telefone": "(31) 98231-0795"
-          },
-          {
-            "nome": "Fabiano",
-            "telefone": "(31) 98554-8530"
-          },
-          {
-            "nome": "Joyce",
-            "telefone": "(31) 99596-2079"
-          },
-          {
-            "nome": "Luber",
-            "telefone": "(31) 98895-4522"
-          },
-          {
-            "nome": "Piu",
-            "telefone": "(31) 98434-4567"
-          },
-          {
-            "nome": "Roger",
-            "telefone": "(31) 98599-8338"
-          }
-        ]
-      },
-      {
         "id": "delivery",
         "icone": "restaurante",
         "titulo": "Delivery",

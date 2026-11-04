@@ -391,7 +391,7 @@
     return html ? `<div class="acoes acoes--coluna">${html}</div>` : '';
   }
 
-  // Informações úteis (ônibus, taxistas, delivery) mostradas direto na página
+  // Informações úteis (ônibus, delivery) mostradas direto na página
   function conteudoInfo(it) {
     const contatos = lista(it.contatos).map((c) => `<li class="contato">
         <span class="contato__nome"><strong>${esc(c.nome)}</strong><small>${esc(fmtTel(c.telefone))}</small></span>
