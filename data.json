@@ -807,53 +807,6 @@
             "icone": "mapa"
           }
         ]
-      },
-      {
-        "id": "delivery",
-        "icone": "restaurante",
-        "titulo": "Delivery",
-        "texto": "Pizza, hambúrguer, sushi, açaí e mais",
-        "textos": [
-          "Contatos de delivery na região. Toque no telefone para ligar."
-        ],
-        "contatos": [
-          {
-            "nome": "Hamburgueria e Pizzaria Na Brasa",
-            "telefone": "31 9 8298-8640"
-          },
-          {
-            "nome": "Pizzaria Box da Massa",
-            "telefone": "31 9 9772-4208"
-          },
-          {
-            "nome": "Sushinato",
-            "telefone": "31 9 8119-3565"
-          },
-          {
-            "nome": "Tengu Sushi",
-            "telefone": "31 9 8370-6424"
-          },
-          {
-            "nome": "Pizzaria El Shadday",
-            "telefone": "31 9 8439-7073"
-          },
-          {
-            "nome": "Açaí Good",
-            "telefone": "31 9 9110-9175"
-          },
-          {
-            "nome": "Cê Ki Sabe",
-            "telefone": "31 9 8105-3223"
-          },
-          {
-            "nome": "Feito a Mão Burguer",
-            "telefone": "31 9 7225-4247"
-          },
-          {
-            "nome": "Escritório Cipó Beer",
-            "telefone": "31 9 7260-5989"
-          }
-        ]
       }
     ]
   },
