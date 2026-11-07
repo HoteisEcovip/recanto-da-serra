@@ -144,6 +144,7 @@
         <div class="sobre__texto">
           ${cabecalho(s)}
           ${lista(s.textos).map((t) => `<p class="revelar">${esc(t)}</p>`).join('')}
+          ${s.botao && s.botao.url ? `<p class="revelar">${linkExterno(s.botao.url, `${ico(s.botao.icone || 'site')} ${esc(s.botao.texto)}`, 'botao botao--primario')}</p>` : ''}
         </div>
         <div class="mosaico mosaico--${Math.min(fotos.length, 5)} revelar">
           ${fotos.map((f, i) => fotoBotao(g, i, f)).join('')}
@@ -484,12 +485,12 @@
       <div class="aviso-pago__texto">
         <p class="aviso-pago__rotulo">Importante</p>
         <p class="aviso-pago__titulo">Os benefícios não estão incluídos na diária</p>
-        <p class="aviso-pago__desc">${esc(texto || 'São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade na recepção.')}</p>
+        <p class="aviso-pago__desc">${esc(texto || 'São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade pelo WhatsApp.')}</p>
       </div>
     </div>`;
   }
   function precoBeneficio(b) {
-    return `<p class="beneficio-preco">${esc(b.preco || 'Valor sob consulta na recepção')}</p>`;
+    return `<p class="beneficio-preco">${esc(b.preco || 'Valor sob consulta')}</p>`;
   }
 
   function modalBeneficio(id) {

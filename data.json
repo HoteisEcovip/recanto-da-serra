@@ -22,9 +22,12 @@
     "nome": "Pousada Recanto da Serra",
     "regiao": "Serra do Cipó",
     "logo": "img/logo-musulqehst5.png",
-    "coordenadas": [-19.33388, -43.62107],
-    "endereco": "Rodovia MG-10, km 99, 2289 — Serra do Cipó, Santana do Riacho/MG",
-    "whatsapp": "5531983990307",
+    "coordenadas": [
+      -19.33388,
+      -43.62107
+    ],
+    "endereco": "R. do Caju, 62 - Serra do Cipó, Santana do Riacho - MG, 35847-000",
+    "whatsapp": "5531999582502",
     "whatsappMensagem": "Olá! Vi o site da Pousada Recanto da Serra e gostaria de mais informações.",
     "instagram": "https://www.instagram.com/pousadarecantoserradocipo/",
     "site": "https://recantodaserrapousada.com.br/",
@@ -35,7 +38,7 @@
     "logo": "img/logo-ecovip.png",
     "url": "https://hoteisecovip.com.br/",
     "site": "https://hoteisecovip.com.br/",
-    "instagram": "https://instagram.com/ecovipcipo"
+    "instagram": "https://www.instagram.com/redeecovip/"
   },
   "hero": {
     "imagem": "img/capa-musuly1hv75.webp",
@@ -72,19 +75,9 @@
         "alt": "Conheça a pousada — foto 4"
       },
       {
-        "src": "img/sobre/sobre-musumchl8hy.webp",
-        "mini": "img/sobre/sobre-musumchl8hy.m.webp",
-        "alt": "Conheça a pousada — foto 5"
-      },
-      {
         "src": "img/sobre/sobre-musumcsxl3y.webp",
         "mini": "img/sobre/sobre-musumcsxl3y.m.webp",
         "alt": "Conheça a pousada — foto 6"
-      },
-      {
-        "src": "img/sobre/sobre-musumdjd4b8.webp",
-        "mini": "img/sobre/sobre-musumdjd4b8.m.webp",
-        "alt": "Conheça a pousada — foto 7"
       },
       {
         "src": "img/sobre/sobre-musumetcn81.webp",
@@ -137,6 +130,14 @@
           {
             "icone": "cafe",
             "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "frigobar",
+            "texto": "Frigobar"
+          },
+          {
+            "icone": "check",
+            "texto": "Rede"
           }
         ],
         "informacoes": [
@@ -172,11 +173,6 @@
             "src": "img/quartos/luxo-terreo-triplo-musunxtu2ph.webp",
             "mini": "img/quartos/luxo-terreo-triplo-musunxtu2ph.m.webp",
             "alt": "Luxo Térreo Triplo — foto 6"
-          },
-          {
-            "src": "img/quartos/luxo-terreo-triplo-musunyi1e9r.webp",
-            "mini": "img/quartos/luxo-terreo-triplo-musunyi1e9r.m.webp",
-            "alt": "Luxo Térreo Triplo — foto 7"
           }
         ]
       },
@@ -210,6 +206,18 @@
           {
             "icone": "cafe",
             "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "frigobar",
+            "texto": "Frigobar"
+          },
+          {
+            "icone": "check",
+            "texto": "Rede"
+          },
+          {
+            "icone": "check",
+            "texto": "Armário"
           }
         ],
         "informacoes": [
@@ -237,11 +245,6 @@
             "alt": "Suíte Standard Dupla — foto 2"
           },
           {
-            "src": "img/quartos/suite-standard-dupla-musup5wn4n3.webp",
-            "mini": "img/quartos/suite-standard-dupla-musup5wn4n3.m.webp",
-            "alt": "Suíte Standard Dupla — foto 3"
-          },
-          {
             "src": "img/quartos/suite-standard-dupla-musup6h3605.webp",
             "mini": "img/quartos/suite-standard-dupla-musup6h3605.m.webp",
             "alt": "Suíte Standard Dupla — foto 4"
@@ -252,29 +255,14 @@
             "alt": "Suíte Standard Dupla — foto 5"
           },
           {
-            "src": "img/quartos/suite-standard-dupla-musup7ojgxj.webp",
-            "mini": "img/quartos/suite-standard-dupla-musup7ojgxj.m.webp",
-            "alt": "Suíte Standard Dupla — foto 6"
-          },
-          {
             "src": "img/quartos/suite-standard-dupla-musup89p9sh.webp",
             "mini": "img/quartos/suite-standard-dupla-musup89p9sh.m.webp",
             "alt": "Suíte Standard Dupla — foto 7"
           },
           {
-            "src": "img/quartos/suite-standard-dupla-musup9eygnw.webp",
-            "mini": "img/quartos/suite-standard-dupla-musup9eygnw.m.webp",
-            "alt": "Suíte Standard Dupla — foto 9"
-          },
-          {
             "src": "img/quartos/suite-standard-dupla-musupa09ump.webp",
             "mini": "img/quartos/suite-standard-dupla-musupa09ump.m.webp",
             "alt": "Suíte Standard Dupla — foto 10"
-          },
-          {
-            "src": "img/quartos/suite-standard-dupla-musupal6bku.webp",
-            "mini": "img/quartos/suite-standard-dupla-musupal6bku.m.webp",
-            "alt": "Suíte Standard Dupla — foto 11"
           },
           {
             "src": "img/quartos/suite-standard-dupla-musupb972ia.webp",
@@ -300,11 +288,6 @@
             "src": "img/quartos/suite-standard-dupla-musupeo6oms.webp",
             "mini": "img/quartos/suite-standard-dupla-musupeo6oms.m.webp",
             "alt": "Suíte Standard Dupla — foto 17"
-          },
-          {
-            "src": "img/quartos/suite-standard-dupla-musupf7tevc.webp",
-            "mini": "img/quartos/suite-standard-dupla-musupf7tevc.m.webp",
-            "alt": "Suíte Standard Dupla — foto 18"
           }
         ]
       },
@@ -339,6 +322,14 @@
           {
             "icone": "cafe",
             "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "frigobar",
+            "texto": "Frigobar"
+          },
+          {
+            "icone": "check",
+            "texto": "Armário"
           }
         ],
         "informacoes": [
@@ -351,24 +342,9 @@
             "alt": "Luxo Standard Quádruplo — foto 1"
           },
           {
-            "src": "img/quartos/luxo-standard-quadruplo-musuv8r353i.webp",
-            "mini": "img/quartos/luxo-standard-quadruplo-musuv8r353i.m.webp",
-            "alt": "Luxo Standard Quádruplo — foto 2"
-          },
-          {
             "src": "img/quartos/luxo-standard-quadruplo-musuv9e4rn6.webp",
             "mini": "img/quartos/luxo-standard-quadruplo-musuv9e4rn6.m.webp",
             "alt": "Luxo Standard Quádruplo — foto 3"
-          },
-          {
-            "src": "img/quartos/luxo-standard-quadruplo-musuv9y0i0j.webp",
-            "mini": "img/quartos/luxo-standard-quadruplo-musuv9y0i0j.m.webp",
-            "alt": "Luxo Standard Quádruplo — foto 4"
-          },
-          {
-            "src": "img/quartos/luxo-standard-quadruplo-musuvaiwk0w.webp",
-            "mini": "img/quartos/luxo-standard-quadruplo-musuvaiwk0w.m.webp",
-            "alt": "Luxo Standard Quádruplo — foto 5"
           },
           {
             "src": "img/quartos/luxo-standard-quadruplo-musuvb23r9h.webp",
@@ -386,34 +362,14 @@
             "alt": "Luxo Standard Quádruplo — foto 8"
           },
           {
-            "src": "img/quartos/luxo-standard-quadruplo-musuvcrica7.webp",
-            "mini": "img/quartos/luxo-standard-quadruplo-musuvcrica7.m.webp",
-            "alt": "Luxo Standard Quádruplo — foto 9"
-          },
-          {
             "src": "img/quartos/luxo-standard-quadruplo-musuvdcp78n.webp",
             "mini": "img/quartos/luxo-standard-quadruplo-musuvdcp78n.m.webp",
             "alt": "Luxo Standard Quádruplo — foto 10"
           },
           {
-            "src": "img/quartos/luxo-standard-quadruplo-musuvdxhidq.webp",
-            "mini": "img/quartos/luxo-standard-quadruplo-musuvdxhidq.m.webp",
-            "alt": "Luxo Standard Quádruplo — foto 11"
-          },
-          {
-            "src": "img/quartos/luxo-standard-quadruplo-musuveiqemm.webp",
-            "mini": "img/quartos/luxo-standard-quadruplo-musuveiqemm.m.webp",
-            "alt": "Luxo Standard Quádruplo — foto 12"
-          },
-          {
             "src": "img/quartos/luxo-standard-quadruplo-musuvf4q3tv.webp",
             "mini": "img/quartos/luxo-standard-quadruplo-musuvf4q3tv.m.webp",
             "alt": "Luxo Standard Quádruplo — foto 13"
-          },
-          {
-            "src": "img/quartos/luxo-standard-quadruplo-musuvfpjjda.webp",
-            "mini": "img/quartos/luxo-standard-quadruplo-musuvfpjjda.m.webp",
-            "alt": "Luxo Standard Quádruplo — foto 14"
           }
         ]
       },
@@ -447,6 +403,10 @@
           {
             "icone": "cafe",
             "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "frigobar",
+            "texto": "Frigobar"
           }
         ],
         "informacoes": [
@@ -510,6 +470,10 @@
           {
             "icone": "cafe",
             "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "frigobar",
+            "texto": "Frigobar"
           }
         ],
         "informacoes": [
@@ -550,11 +514,6 @@
             "src": "img/quartos/suite-superior-tripla-musuxzc0isn.webp",
             "mini": "img/quartos/suite-superior-tripla-musuxzc0isn.m.webp",
             "alt": "Suíte Superior Tripla — foto 7"
-          },
-          {
-            "src": "img/quartos/suite-superior-tripla-musuxzxiaz9.webp",
-            "mini": "img/quartos/suite-superior-tripla-musuxzxiaz9.m.webp",
-            "alt": "Suíte Superior Tripla — foto 8"
           }
         ]
       },
@@ -589,6 +548,10 @@
           {
             "icone": "cafe",
             "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "frigobar",
+            "texto": "Frigobar"
           }
         ],
         "informacoes": [
@@ -703,6 +666,18 @@
           {
             "icone": "cafe",
             "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "frigobar",
+            "texto": "Frigobar"
+          },
+          {
+            "icone": "check",
+            "texto": "Mesa"
+          },
+          {
+            "icone": "check",
+            "texto": "Área de estar com sofá"
           }
         ],
         "informacoes": [
@@ -785,8 +760,8 @@
           "Você pode embarcar na Viação Serro ou na Viação Saritur, na Rodoviária de BH. Ao comprar a passagem, diga que está indo para a Serra do Cipó."
         ],
         "passos": [
-          "Ao agente de bordo, diga que vai desembarcar em frente ao Supermercado BH, na Serra do Cipó.",
-          "Ao desembarcar, desça um pouco pela rodovia e entre na próxima rua de terra — fica bem ao lado do posto de saúde.",
+          "Ao agente de bordo, diga que vai desembarcar um pouco depois do Cê Ki Sabe, na Serra do Cipó.",
+          "Ao desembarcar, entre na primeira rua de terra depois do Cê Ki Sabe.",
           "Essa é a rua da Pousada Recanto da Serra. Vá até o final dela: a estradinha termina na pousada.",
           "Do ponto de ônibus até a pousada são só cerca de 100 metros, 1 minuto de caminhada."
         ],
@@ -2332,7 +2307,7 @@
               ]
             }
           ],
-          "nota": "Solicite mais informações na recepção da pousada. Relaxe, aproveite e viva o melhor da Rede EcoVip!",
+          "nota": "Relaxe, aproveite e viva o melhor da Rede EcoVip!",
           "fotos": [
             {
               "src": "img/beneficios/monjolos-muri1n7ey9w.webp",
@@ -2360,11 +2335,6 @@
               "mini": "img/beneficios/monjolos-muri216v5ow.m.webp"
             },
             {
-              "src": "img/beneficios/monjolos-muri21hl60d.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 6",
-              "mini": "img/beneficios/monjolos-muri21hl60d.m.webp"
-            },
-            {
               "src": "img/beneficios/monjolos-muri21og55j.webp",
               "alt": "Cachoeira Monjolos + almoço — foto 7",
               "mini": "img/beneficios/monjolos-muri21og55j.m.webp"
@@ -2388,15 +2358,10 @@
               "src": "img/beneficios/monjolos-muri239vxnm.webp",
               "alt": "Cachoeira Monjolos + almoço — foto 11",
               "mini": "img/beneficios/monjolos-muri239vxnm.m.webp"
-            },
-            {
-              "src": "img/beneficios/monjolos-muri23gy677.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 12",
-              "mini": "img/beneficios/monjolos-muri23gy677.m.webp"
             }
           ]
         },
-        "preco": "Valor sob consulta na recepção"
+        "preco": "Valor sob consulta"
       },
       {
         "id": "passeios",
@@ -2446,7 +2411,7 @@
         "id": "massagem",
         "icone": "massagem",
         "titulo": "Massagem relaxante",
-        "texto": "Realizada por profissionais parceiros. Confira a disponibilidade na recepção.",
+        "texto": "Realizada por profissionais parceiros.",
         "botao": "Ver detalhes",
         "detalhes": {
           "destaque": "Sessão de 50 minutos",
@@ -2465,12 +2430,11 @@
               "titulo": "Agendamento",
               "itens": [
                 "Sinal de R$ 60,00 via Pix",
-                "Valor restante pago diretamente na recepção"
+                "Valor restante pago diretamente na pousada"
               ]
             }
           ],
-          "fotos": [],
-          "nota": "Agende na recepção da pousada."
+          "fotos": []
         },
         "preco": "A partir de R$ 190,00 por pessoa"
       },
@@ -2502,7 +2466,7 @@
               ]
             }
           ],
-          "nota": "Surpreenda quem você ama com momentos inesquecíveis! Peça a sua na recepção.",
+          "nota": "Surpreenda quem você ama com momentos inesquecíveis!",
           "fotos": [
             {
               "src": "img/beneficios/decoracao-murj5lew20x.webp",
@@ -2545,7 +2509,7 @@
       }
     ],
     "fecho": "E ainda mais vantagens para tornar sua estadia inesquecível!",
-    "aviso": "São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade na recepção."
+    "aviso": "São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade pelo WhatsApp."
   },
   "galeria": {
     "eyebrow": "Galeria",
